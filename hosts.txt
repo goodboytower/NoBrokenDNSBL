@@ -1,4 +1,4 @@
-#Michael's DNSBL for pfblocker-ng-dev
+#Michael's DNSBL for pfblocker-ng-dev 
 
 mobile.pipe.aria.microsoft.com
 e.reddit.com
