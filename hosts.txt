@@ -1,5 +1,6 @@
-#Michael's DNSBL for pfblocker-ng-dev 
+#Michael's DNSBL for pfblocker-ng-dev
 
+#triple digit block counts
 mobile.pipe.aria.microsoft.com
 e.reddit.com
 gcp.api.snapchat.com
@@ -10,9 +11,10 @@ incoming.telemetry.mozilla.org
 telemetry.mozilla.org
 cws-hulu.conviva.com
 usc.adserver.snapads.com
-t.hulu.com
+t2.hulu.com
 www.gstatic.com
 loca.sc-jpl.com
+###
 self.events.data.microsoft.com
 apis.google.com
 alb.reddit.com
@@ -256,6 +258,64 @@ bttrack.com
 biddr.brealtime.com
 assets.adobedtm.com
 a.opmnstr.com
+a.ad.gt
+ad.lkqd.net
+ads.adthrive.com
+ak.sail-horizon.com
+z-na.amazon-adsystem.com
+x2.mookie1.com
+www.medtargetsystem.com
+usermatch.krxd.net
+usbank.az1.qualtrics.com
+udm.scorecardresearch.com
+triggers.wfxtriggers.com
+tracker.samplicio.us
+track.adthrive.com
+tps.doubleverify.com
+tlx.3lift.com
+telecommand.telemetry.microsoft.com
+tag.yieldoptimizer.com
+tag.bounceexchange.com
+sync.mathtag.com
+static.criteo.net
+snippets.cdn.mozilla.net
+servedby.flashtalking.com
+secure-gg.imrworldwide.com
+sc-static.net
+s.thebrighttag.com
+s.skimresources.com
+s.pixsrvcs.com
+ris.api.iris.microsoft.com
+px.owneriq.net
+presentation-atl1.turn.com
+pixel.moatads.com
+pi.ispot.tv
+p.placed.com
+p.adsymptotic.com
+normandy.cdn.mozilla.net
+ml314.com
+marmalade.adthrive.com
+manifest.localytics.com
+logger.adthrive.com
+js.agkn.com
+in.qbk1.com
+ib.3lift.com
+hb.emxdgt.com
+global.ib-ibi.com
+g2.gumgum.com
+g.symcd.com
+events.privy.com
+dp2.33across.com
+dmx.districtm.io
+dmp.v.fwmrm.net
+1cdn.memo.co
+cdn.doubleverify.com
+cdn.districtm.io
+cdn.blueconic.net
+cafemedia-d.openx.net
+bidder.criteo.com
+api.privy.com
+apex.go.sonobi.com
 
 #Custom List taken to optimize other lists
 ads-e-darwin.hulustream.com
