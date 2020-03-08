@@ -16,10 +16,11 @@ usc.adserver.snapads.com
 watson.telemetry.microsoft.com
 
 ###
+.doubleclick.net
+.fls.doubleclick.net
+.liveperson.net
 1cdn.memo.co
 4495.adj.st
-fls.doubleclick.net
-.fls.doubleclick.net
 a.ad.gt
 a.opmnstr.com
 a.quora.com
@@ -50,6 +51,7 @@ api.amplitude.com
 api.apptentive.com
 api.branch.io
 api.cortana.ai
+api.ipify.org
 api.mapbox.com
 api.mixpanel.com
 api.privy.com
@@ -57,6 +59,7 @@ api2.branch.io
 api-iam.intercom.io
 apis.google.com
 app.adjust.com
+app.leadsrx.com
 app-measurement.com
 apps.samsungcloudcdn.com
 arc.msn.com
@@ -86,6 +89,7 @@ cdn.cityspark.com
 cdn.concert.io
 cdn.content.prod.cms.msn.com
 cdn.cookielaw.org
+cdn.decibelinsight.net
 cdn.districtm.ca
 cdn.districtm.io
 cdn.doubleverify.com
@@ -124,6 +128,7 @@ d-ipv6.mmapiws.com
 dmd.metaservices.microsoft.com
 dmp.v.fwmrm.net
 dmx.districtm.io
+doubleclick.net
 dp2.33across.com
 dts.innovid.com
 e.crashlytics.com
@@ -141,12 +146,15 @@ fbwat.ch
 firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
+fls.doubleclick.net
 fp.msedge.net
 fundingchoicesmessages.google.com
 g.gumgum.com
 g.symcd.com
 g2.gumgum.com
 gate.hockeyapp.net
+gateway.foresee.com
+gateway.foresee.com
 geoip-db.com
 geolocation.onetrust.com
 global.ib-ibi.com
@@ -182,10 +190,12 @@ js.agkn.com
 js.hsforms.net
 l.sharethis.com
 launches.appsflyer.com
+liveperson.net
 loadm.exelator.com
 log.pinterest.com
 logger.adthrive.com
 lookaside.facebook.com
+lptag.liveperson.net
 m.nsimg.net
 m.stripe.network
 mads.amazon-adsystem.com
@@ -200,6 +210,7 @@ metrics.icloud.com
 ml314.com
 mobile.eum-appdynamics.com
 monorail-edge.shopifysvc.com
+mpp.vindicosuite.com
 native.sharethrough.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -228,6 +239,7 @@ pixel.wp.com
 pixel-sync.sitescout.com
 pixiedust.buzzfeed.com
 platform.twitter.com
+pls.webtype.com
 polyfill.io
 pr.ybp.yahoo.com
 prebid.adnxs.com
@@ -247,6 +259,7 @@ recsys-api.buzzfeed.com
 reddit.app.link
 redirector.gvt.com
 ris.api.iris.microsoft.com
+rs.gwallet.com
 rt.analytics.anvato.net
 rtd-tm.everesttech.net
 rumble.com
@@ -255,6 +268,7 @@ s.addthis.com
 s.amazon-adsystem.com
 s.innovid.com
 s.pixsrvcs.com
+s.po.st
 s.skimresources.com
 s.thebrighttag.com
 s.wp.com
@@ -281,6 +295,7 @@ settings.crashlytics.com
 settings.data.microsoft.com
 settings-ssl.xboxlive.com
 sirius.mwbsys.com
+siteimproveanalytics.com
 smartlock.google.com
 smpop.icfcdn.com
 snap.licdn.com
@@ -330,6 +345,7 @@ unsplash.com
 upsells.boldapps.net
 usbank.az1.qualtrics.com
 usbank.sc.omtrdc.net
+use.typekit.net
 usermatch.krxd.net
 use-va.adsrvr.org
 use-va1.adsrvr.org
@@ -409,4 +425,3 @@ ns1.dnsfor9.com
 pvatlshnabflbncad.com
 twgwqgijymdhbc16.com
 utfydxsjwxfulilp2m.com
-
