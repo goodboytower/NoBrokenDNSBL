@@ -137,6 +137,7 @@ edba.brealtime.com
 ekr.zdassets.com
 enterprise.activity.windows.com
 events.appsflyer.com
+events.data.microsoft.com
 events.mapbox.com
 events.privy.com
 events.tremorhub.com
@@ -216,6 +217,7 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 normandy.cdn.mozilla.net
 ns.zdbb.net
+nsimg.net
 ocsp.scab.amazontrust.com
 olmprodpowerlift-cdn.azureedge.net
 one-and-one-d.openx.net
