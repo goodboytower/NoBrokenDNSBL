@@ -15,6 +15,36 @@ telemetry.mozilla.org
 usc.adserver.snapads.com
 watson.telemetry.microsoft.com
 
+#list of microsoft edge telemetry
+edgetipscdn.microsoft.com
+static-compass-eus-s-msn-com.akamized.net
+unitedstates.smartscreen-prod.microsoft.com
+nav.smartscreen.microsoft.com
+otf.msn.com
+dc.services.visualstudio.com
+px.ads.linkedin.com
+clients2.google.com
+config.edge.skype.com
+ntp.msn.com
+gvt1.com
+microsoftedgeinsider.com
+sb.scorecardresearch.com
+c.msn.com
+bat.bing.com
+web.vortex.data.microsoft.com
+browser.pipe.aria.microsoft.com
+msedge.api.cdp.microsoft.com
+go.microsoft.com
+speech.platform.bing.com
+img-s-msn-com.akamized.net
+c.bing.com
+msecnd.net
+static.ads-twitter.com
+img-prod-cms-rt-microsoft-com.akamized.net
+edge.activity.windows.com
+mem.gfx.ms
+
+
 ###
 .doubleclick.net
 .fls.doubleclick.net
