@@ -6,7 +6,7 @@ mobile.pipe.aria.microsoft.com
 loca.sc-jpl.com
 
 #triple digit block counts
-cws-hulu.conviva.com
+#cws-hulu.conviva.com turns out this needs to stay unblocked
 doppler.hulu.com
 e.reddit.com
 gstatic.com
