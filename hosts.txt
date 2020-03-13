@@ -146,11 +146,14 @@ concertads-configs.vox-cdn.com
 confiant-integrations.global.ssl.fastly.net
 connect.facebook.net
 consent.trustarc.com
+contextual.media.net
 continuum.dds.microsoft.com
 contributor.google.com
 cp.ebbp.pro
+crwdcntrl.net
 d.agkn.com
-d.flashtalking.com
+d.flashtalking.com 
+d.turn.com
 d9.flashtalking.com
 data.adxcel-ec.com
 di.phncdn.com
@@ -236,6 +239,7 @@ marmalade.adthrive.com
 match.adsrvr.org
 media.trafficjunky.com
 media.trafficjunky.net
+medtargetsystem.com
 metrics.gfycat.com
 metrics.icloud.com
 ml314.com
@@ -271,6 +275,7 @@ pixel.wp.com
 pixel-sync.sitescout.com
 pixiedust.buzzfeed.com
 platform.twitter.com
+play.google.com
 pls.webtype.com
 polyfill.io
 pr.ybp.yahoo.com
@@ -298,6 +303,7 @@ rumble.com
 run.adrizer.com
 s.addthis.com
 s.amazon-adsystem.com
+s.go-mpulse.net
 s.innovid.com
 s.pixsrvcs.com
 s.po.st
@@ -336,6 +342,7 @@ sp.analytics.yahoo.com
 srtb.msn.com
 ss.adjust.com
 ssl.luckyorange.com
+ssl.o.medscape.com
 ssum-sec.casalemedia.com
 stags.bluekai.com
 static.addtoany.com
@@ -361,6 +368,7 @@ tagan.adlightning.com
 tags.bluekai.com
 tealium.cbsnews.com
 telecommand.telemetry.microsoft.com
+thrtle.com
 tlx.3lift.com
 tlx.lift.com
 tpc.googlesyndication.com
