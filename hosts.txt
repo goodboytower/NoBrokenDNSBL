@@ -5,7 +5,6 @@ applytics.zwyr157wwiu6eior.com
 doppler.hulu.com
 e.reddit.com
 gcp.api.snapchat.com
-gstatic.com
 loca.sc-jpl.com
 pipe.aria.microsoft.com
 scorecardresearch.com
@@ -18,6 +17,16 @@ watson.telemetry.microsoft.com
 
 #client-event-reporter.twitch.tv whitelist this
 #cws-hulu.conviva.com turns out this needs to stay unblocked
+
+#youtube?
+#i.ytimg.com
+#i1.ytimg.com
+#i9.ytimg.com
+
+#whitelisted
+#mail-ads.google.com 
+#smpop.icfcdn.com
+#gstatic.com
 
 #list of microsoft edge telemetry
 edgetipscdn.microsoft.com
@@ -75,7 +84,6 @@ abeagle-public.buzzfeed.com
 activity.windows.com
 ad.atdmt.com
 ad.crwdcntrl.net
-ad.doubleclick.net
 ad.lkqd.net
 ad.turn.com
 adblockplus.org
@@ -123,7 +131,6 @@ api.whatsapp.com
 api2.branch.io
 api-iam.intercom.io
 api-js.mixpanel.com
-apis.google.com
 api-v3.tinypass.com
 app.adjust.com
 app.leadsrx.com
@@ -148,7 +155,6 @@ beacon.shazam.com
 beacons.extremereach.io
 beacons5.gvt3.com
 b-graph.facebook.com
-bid.g.doubleclick.net
 bidbarrel.cbsnews.com
 bidder.criteo.com
 biddr.brealtime.com
@@ -180,7 +186,6 @@ cdn.branch.io
 cdn.carbonads.com
 cdn.cityspark.com
 cdn.concert.io
-cdn.content.prod.cms.msn.com
 cdn.cookielaw.org
 cdn.decibelinsight.net
 cdn.districtm.ca
@@ -223,12 +228,10 @@ certify.alexametrics.com
 certify-js.alexametrics.com
 cf.iadsdk.apple.com
 cheqzone.com
-ci.phncdn.com
 clc.stackoverflow.com
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 client-s.gateway.messenger.live.com
-cm.g.doubleclick.net
 cms.analytics.yahoo.com
 cnet.cbsi.com
 cnn.sdk.beemray.com
@@ -241,7 +244,6 @@ config2.mparticle.com
 connect.facebook.net
 consent.cmp.oath.com
 consent.cookiebot.com
-consent.trustarc.com
 container.pepperjam.com
 contextual.media.net
 continuum.dds.microsoft.com
@@ -251,7 +253,6 @@ cp.ebbp.pro
 crumbs.robinhood.com
 crwdcntrl.net
 cse.google.com
-csi.gstatic.com
 cstat.apple.com
 cws-hulu.conviva.com
 d.agkn.com
@@ -266,7 +267,6 @@ delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
 device-provisioning.googleapis.com
-di.phncdn.com
 di.rlcdn.com
 diffuser-cdn.app-us1.com
 d-ipv6.mmapiws.com
@@ -308,7 +308,6 @@ firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
-fls.doubleclick.net
 forms.gle
 fp.msedge.net
 fullstory.com
@@ -330,8 +329,6 @@ glassmoni.researchgate.net
 global.ib-ibi.com
 global.proper.io
 goo.gl
-googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
 googlevideo.com
 grid.bidswitch.net
 grid-cdn.pdc.bidswitch.net
@@ -349,9 +346,6 @@ i.geistm.com
 i.ubm-us.net
 i.w55c.net
 i.wc.net
-i.ytimg.com
-i1.ytimg.com
-i9.ytimg.com
 iadsdk.apple.com
 ib.3lift.com
 ib.adnxs.com
@@ -367,7 +361,7 @@ img.blogblog.com
 img.en.com
 img1.wsimg.com
 impression.appsflyer.com
-in.appcenter.ms
+# in.appcenter.ms whitelisted
 in.qbk1.com
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
@@ -402,7 +396,6 @@ m.stripe.network
 m1.nsimg.net
 m2.nsimg.net
 mads.amazon-adsystem.com
-mail-ads.google.com
 manifest.localytics.com
 markedmeasure.com
 marmalade.adthrive.com
@@ -488,7 +481,6 @@ prod.cdn.powerbi.com
 production-cmp.isgprivacy.cbsi.com
 profile.localytics.com
 projects.posttv.com
-pubads.g.doubleclick.net
 public.vilynx.com
 pubsub-edge.twitch.tv
 px.gfycat.com
@@ -565,7 +557,6 @@ secure.quantserve.com
 secure-ds.serving-sys.com
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
-securepubads.g.doubleclick.net
 secure-sts-prod.imrworldwide.com
 secure-us.imrworldwide.com
 segment.api.useinsider.com
@@ -589,7 +580,6 @@ smartlock.google.com
 smetrics.nintendo.com
 smetrics.sephora.com
 smetrics.washingtonpost.com
-smpop.icfcdn.com
 snap.licdn.com
 snippets.cdn.mozilla.net
 sp.analytics.yahoo.com
@@ -620,7 +610,6 @@ static.yieldmo.com
 static.ziffdavis.com
 stats.bluebillywig.com
 stats.defense.gov
-stats.g.doubleclick.net
 stats.wp.com
 storage.googleapis.com
 sxj8.adj.st
