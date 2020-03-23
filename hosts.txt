@@ -27,6 +27,10 @@ watson.telemetry.microsoft.com
 #mail-ads.google.com 
 #smpop.icfcdn.com
 #gstatic.com
+#client-s.gateway.messenger.live.com
+
+#questionable
+quantummetric.com
 
 #list of microsoft edge telemetry
 edgetipscdn.microsoft.com
@@ -68,7 +72,7 @@ xg4ken.com
 4495.adj.st
 ulink.adjust.com
 a.ad.gt
-a.config.skype.com
+config.skype.com
 a.et.nytimes.com
 a.nytimes.com
 a.opmnstr.com
@@ -146,7 +150,6 @@ associatedpress-d.openx.net
 at.atwola.com
 edgesuite.net
 vo.msecnd.net
-b.config.skype.com
 banner.advertising.com
 bats.video.yahoo.com
 bcp.crwdcntrl.net
@@ -201,7 +204,6 @@ cdn.optimizely.com
 cdn.parsely.com
 cdn.permutive.com
 cdn.pricespider.com
-cdn.quantummetric.com
 cdn.rawgit.com
 cdn.scarabresearch.com
 cdn.subscribers.com
@@ -211,14 +213,11 @@ cdn.treasuredata.com
 cdn.vidible.tv
 cdn.ziffstatic.com
 cdn0.forter.com
-cdn1d-static-shared.phncdn.com
 cdn3.forter.com
 cdn3.optimizely.com
 cdn9.forter.com
 cdn-api.arcpublishing.com
-cdnd-static-shared.phncdn.com
 cdn-gl.imrworldwide.com
-cdn-smallimg.phncdn.com
 cdn-ssl.vidible.tv
 cdn-v3.conductrics.com
 cdp.cloud.unity3d.com
@@ -231,7 +230,6 @@ cheqzone.com
 clc.stackoverflow.com
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
-client-s.gateway.messenger.live.com
 cms.analytics.yahoo.com
 cnet.cbsi.com
 cnn.sdk.beemray.com
@@ -422,8 +420,6 @@ news.iadsdk.apple.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nintendoofamerica.tt.omtrdc.net
-nordvpn.com
-nordvpn.nanorep.co
 normandy.cdn.mozilla.net
 notes-analytics-events.apple.com
 notify.bugsnag.com
@@ -513,7 +509,6 @@ reddit.app.link
 redirector.gvt.com
 referrer.disqus.com
 ris.api.iris.microsoft.com
-rl.quantummetric.com
 rs.gwallet.com
 rt.analytics.anvato.net
 rtd-tm.everesttech.net
@@ -668,9 +663,7 @@ urs.cnet.com
 us.adserver.yahoo.com
 us.creativecdn.com
 usage.trackjs.com
-usbank.az1.qualtrics.com
 usbank.sc.omtrdc.net
-usbank-app.quantummetric.com
 use.typekit.net
 krxd.net
 adsrvr.org
@@ -708,7 +701,7 @@ llnwd.net
 z.cn
 z.moatads.com
 zdbb.net
-siteintercept.qualtrics.com
+qualtrics.com
 z-na.amazon-adsystem.com
 zwyr157wwiu6eior.com
 
