@@ -62,13 +62,14 @@ edge.activity.windows.com
 mem.gfx.ms
 
 ###
-.adblockplus.org
 # in.appcenter.ms whitelisted
+.adblockplus.org
 .doubleclick.net
 .googlevideo.com
 .liveperson.net
 1cdn.memo.co
 3p.ampproject.net
+4139589.fls.doubleclick.net
 4495.adj.st
 5942083.fls.doubleclick.net
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
@@ -98,12 +99,15 @@ ad.doubleclick.net
 ad.lkqd.net
 ad.turn.com
 adblockplus.org
+addelivery-engine-api.voodoo-ads.io
 ade.googlesyndication.com
 adj.st
 adrta.com
 ads.adthrive.com
+ads.api.vungle.com
 ads.celtra.com
 ads.ehealthcaresolutions.com
+ads.mopub.com
 ads.pinterest.com
 ads.rubiconproject.com
 ads.samsungads.com
@@ -137,6 +141,7 @@ api.apptentive.com
 api.b2c.com
 api.branch.io
 api.cortana.ai
+api.gameanalytics.com
 api.ipify.org
 api.mapbox.com
 api.mixpanel.com
@@ -145,8 +150,10 @@ api.privy.com
 api.rlcdn.com
 api.sail-personalize.com
 api.simpleanalytics.io
+api.traq.li
 api.whatsapp.com
 api2.branch.io
+api-gdpr.voodoo-tech.io
 api-iam.intercom.io
 api-js.mixpanel.com
 api-v3.tinypass.com
@@ -165,6 +172,8 @@ assets-jpcust.jwpsrv.com
 associatedpress-d.openx.net
 aswpsdkus.com
 at.atwola.com
+at.cbsi.com
+az725175.vo.msecnd.net
 b.config.skype.com
 banner.advertising.com
 bats.video.yahoo.com
@@ -223,6 +232,7 @@ cdn.jsdelivr.net
 cdn.krxd.net
 cdn.mediavoice.com
 cdn.mouseflow.com
+cdn.mwbsys.com
 cdn.mxpnl.com
 cdn.onesignal.com
 cdn.optimizely.com
@@ -230,6 +240,7 @@ cdn.parsely.com
 cdn.permutive.com
 cdn.pricespider.com
 cdn.rawgit.com
+cdn.samsungcloudsolution.com
 cdn.scarabresearch.com
 cdn.speedcurve.com
 cdn.springserve.com
@@ -240,12 +251,14 @@ cdn.treasuredata.com
 cdn.vidible.tv
 cdn.ziffstatic.com
 cdn0.forter.com
+cdn2.inner-active.mobi
 cdn3.forter.com
 cdn3.optimizely.com
 cdn9.forter.com
 cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
 cdn-ssl.vidible.tv
+cdntrf.com
 cdn-v3.conductrics.com
 cdp.cloud.unity3d.com
 ced.sascdn.com
@@ -258,6 +271,7 @@ civicscience.com
 clc.stackoverflow.com
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
+cm.g.doubleclick.net
 cms.analytics.yahoo.com
 cnet.cbsi.com
 cnn.sdk.beemray.com
@@ -269,9 +283,12 @@ confiant-integrations.global.ssl.fastly.net
 config.samsungads.com
 config.skype.com
 config.uca.cloud.unity3d.com
+config.unityads.unity3d.com
 config2.mparticle.com
 configprd.samsungcloudsolution.net
 connect.facebook.net
+connect.scroll.com
+connect.tapjoy.com
 consent.cmp.oath.com
 consent.cookiebot.com
 container.pepperjam.com
@@ -281,6 +298,7 @@ contributor.google.com
 countess.twitch.tv
 cp.ebbp.pro
 cpu.samsungelectronics.com
+crosspromo.voodoo.io
 crumbs.robinhood.com
 crwdcntrl.net
 cse.google.com
@@ -288,6 +306,8 @@ csi.gstatic.com
 cstat.apple.com
 cws-hulu.conviva.com
 d.agkn.com
+d.applovin.com
+d.applvn.com
 d.flashtalking.com 
 d.turn.com
 d9.flashtalking.com
@@ -310,6 +330,7 @@ dmp.v.fwmrm.net
 dmx.districtm.io
 doubleclick.net
 dp2.33across.com
+dpu.samsungelectronics.com
 ds-aksb-a.akamaihd.net
 dt.adsafeprotected.com
 dts.innovid.com
@@ -317,6 +338,7 @@ dw.cbsi.com
 e.crashlytics.com
 e309da9b9aaf.cdn4.forter.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
+ecommerce.iap.unity3d.com
 edba.brealtime.com
 edge1.certona.net
 edgecast-vod.yahoo.net
@@ -334,6 +356,7 @@ events.attentivemobile.com
 events.data.microsoft.com
 events.mapbox.com
 events.privy.com
+events.samsungads.com
 events.tremorhub.com
 fast.a.klaviyo.com
 fast.wistia.com
@@ -345,6 +368,7 @@ firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
 forms.gle
 fp.msedge.net
+front-logs.voodoo-ads.io
 fullstory.com
 fundingchoicesmessages.google.com
 g.3gl.net
@@ -367,6 +391,7 @@ global.ib-ibi.com
 global.proper.io
 goo.gl
 googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
 googletagservices.com
 googlevideo.com
 gpm.samsungqbe.com
@@ -381,12 +406,14 @@ hb.nexage.com
 hb.undertone.com
 hit.api.useinsider.com
 hotjar.com
+hubble.mb-cosmos.com
 i.clean.gg
 i.cmpnet.com
 i.geistm.com
 i.ubm-us.net
 i.w55c.net
 i.wc.net
+i9.ytimg.com
 iadsdk.apple.com
 ib.3lift.com
 ib.adnxs.com
@@ -402,6 +429,8 @@ img.blogblog.com
 img.en.com
 img1.wsimg.com
 impression.appsflyer.com
+imrworldwide.com
+.imrworldwide.com
 imtwjwoasak.com
 in.qbk1.com
 inapps.appsflyer.com
@@ -426,6 +455,7 @@ l.sharethis.com
 l9bjkkhaycw6f8f4.soundcloud.com
 launches.appsflyer.com
 lcprd1.samsungcloudsolution.net
+licensingphone.mp.microsoft.com
 links.services.disqus.com
 live.adyen.com
 liveperson.net
@@ -466,6 +496,8 @@ monorail-edge.shopifysvc.com
 mormont.gamer-network.net
 mpp.vindicosuite.com
 mps.nbcuni.com
+ms.applovin.com
+ms.applvn.com
 munchkin.marketo.net
 native.sharethrough.com
 nav.sciencedirect.com
@@ -477,10 +509,12 @@ nexusrules.officeapps.live.com
 nintendoofamerica.tt.omtrdc.net
 normandy.cdn.mozilla.net
 notes-analytics-events.apple.com
+notice.samsungcloudsolution.com
 notify.bugsnag.com
 npttech.com
 ns.zdbb.net
 nsimg.net
+o.ss2.us
 ocsp.sca1b.amazontrust.com
 ocsp.scab.amazontrust.com
 odb.outbrain.com
@@ -521,6 +555,7 @@ pixel.wp.com
 pixel-sync.sitescout.com
 pixiedust.buzzfeed.com
 platform.twitter.com
+platform-api.sharethis.com
 play.google.com
 pls.webtype.com
 polyfill.io
@@ -546,6 +581,7 @@ pubads.g.doubleclick.net
 public.vilynx.com
 pubsub-edge.twitch.tv
 px.gfycat.com
+px.moatads.com
 px.owneriq.net
 q4mn.adj.st
 qab.hextom.com
@@ -580,8 +616,12 @@ referrer.disqus.com
 ris.api.iris.microsoft.com
 rs.gwallet.com
 rt.analytics.anvato.net
+rt.applovin.com
+rt.applvn.com
 rtd-tm.everesttech.net
 rtk.io
+rubick.gameanalytics.com
+rules.quantcount.com
 rumble.com
 rumcdn.geoedge.be
 rum-static.pingdom.net
@@ -596,6 +636,7 @@ s.ntv.io
 s.pixsrvcs.com
 s.po.st
 s.skimresources.com
+s.ss2.us
 s.thebrighttag.com
 s.wp.com
 s.yieldmo.com
@@ -608,6 +649,7 @@ s7.addthis.com
 saa.cbsi.com
 sadmin.brightcove.com
 sak.userreport.com
+sas.samsungcloudsolution.com
 sc81298620llms1.cobrowse.oraclecloud.com
 scout-cdn.salesloft.com
 script.crazyegg.com
@@ -635,6 +677,7 @@ sephora-live.inside-graph.com
 serve.cheqzone.com
 serve2.cheqzone.com
 servedby.flashtalking.com
+service.cmp.oath.com
 services.fandom.com
 services.gfe.nvidia.com
 sessions.bugsnag.com
@@ -654,7 +697,9 @@ smetrics.sephora.com
 smetrics.washingtonpost.com
 snap.licdn.com
 snippets.cdn.mozilla.net
+sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
+splash-screen.voodoo-ads.io
 sqs.us-east-1.amazonaws.com
 squirrelhands.com
 srtb.msn.com
@@ -670,6 +715,7 @@ stags.bluekai.com
 static.addtoany.com
 static.bytedance.com
 static.chartbeat.com
+static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
 static.hotjar.com
@@ -689,6 +735,7 @@ stats.g.doubleclick.net
 stats.wp.com
 storage.googleapis.com
 summerhamster.com
+sw88.go.com
 sxj8.adj.st
 sync.ipredictive.com
 sync.mathtag.com
@@ -718,6 +765,7 @@ telemetry.malwarebytes.com
 tempest.services.disqus.com
 thehill-d.openx.net
 thrtle.com
+time.samsungcloudsolution.com
 tlx.3lift.com
 tlx.lift.com
 tpc.googlesyndication.com
@@ -725,7 +773,9 @@ tps.doubleverify.com
 tps30.doubleverify.com
 tr.snapchat.com
 track.adthrive.com
+track.tenjin.io
 tracker.samplicio.us
+trackers.voodoo-analytics.io
 tracking.g2crowd.com
 trends.revcontent.com
 triggers.wfxtriggers.com
@@ -742,6 +792,7 @@ ugdturner.com
 ulink.adjust.com
 unsplash.com
 upsells.boldapps.net
+upu.samsungelectronics.com
 urs.cnet.com
 us.adserver.yahoo.com
 us.creativecdn.com
@@ -749,6 +800,7 @@ us.tags.newscgp.com
 usage.trackjs.com
 usbank.sc.omtrdc.net
 use.typekit.net
+use-tor.adsrvr.org
 usnews.122.2o7.net
 us-u.openx.net
 v.events.data.microsoft.com
@@ -758,13 +810,17 @@ v2.zopim.com
 v20.events.data.microsoft.com
 vela.iad-01.braze.com
 vendorlist.consensu.org
+vice-web-statics-cdn.vice.com
 video.adaptv.advertising.com
 video.adsafeprotected.com
 video.unrulymedia.com
 video-api.mco.arcpublishing.com
 video-api.yql.yahoo.com
+vidtech.cbsinteractive.com
 vjs.zencdn.net
 vo.msecnd.net
+vox.amp.permutive.com
+vs-api.voodoo-tech.io
 w.usabilla.com
 warmquiver.com
 web-analytics.smile.io
@@ -773,14 +829,18 @@ widget.trustpilot.com
 widget.uservoice.com
 widgets.outbrain.com
 wiley.grapeshot.co.uk
+ws.tapjoyads.com
 www.fastly-insights.com
+www.googleadservices.com
 www.googletagservices.com
+www.informit.com
 w-x.co
 x.bidswitch.net
 x.vindicosuite.com
 x2.mookie1.com
 xg4ken.com
 xp.apple.com
+xpu.samsungelectronics.com
 xw7k.adj.st
 ypu.samsungelectronics.com
 z.cn
