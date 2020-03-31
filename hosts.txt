@@ -66,6 +66,7 @@ mem.gfx.ms
 .adblockplus.org
 .doubleclick.net
 .googlevideo.com
+.imrworldwide.com
 .liveperson.net
 1cdn.memo.co
 3p.ampproject.net
@@ -139,6 +140,7 @@ api.altmetric.com
 api.amplitude.com
 api.apptentive.com
 api.b2c.com
+api.bounceexchange.com
 api.branch.io
 api.cortana.ai
 api.gameanalytics.com
@@ -249,6 +251,7 @@ cdn.taboola.com
 cdn.tinypass.com
 cdn.treasuredata.com
 cdn.vidible.tv
+cdn.walkme.com
 cdn.ziffstatic.com
 cdn0.forter.com
 cdn2.inner-active.mobi
@@ -353,11 +356,13 @@ etahub.com
 eurogamer-uk.eurogamer.net
 events.appsflyer.com
 events.attentivemobile.com
+events.bouncex.net
 events.data.microsoft.com
 events.mapbox.com
 events.privy.com
 events.samsungads.com
 events.tremorhub.com
+ews.netgate.com
 fast.a.klaviyo.com
 fast.wistia.com
 fbwat.ch
@@ -366,6 +371,7 @@ firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
+fonts.gstatic.com
 forms.gle
 fp.msedge.net
 front-logs.voodoo-ads.io
@@ -418,6 +424,7 @@ iadsdk.apple.com
 ib.3lift.com
 ib.adnxs.com
 ib.lift.com
+ice.360yield.com
 id.google.com
 id.rlcdn.com
 identity.mparticle.com
@@ -430,7 +437,6 @@ img.en.com
 img1.wsimg.com
 impression.appsflyer.com
 imrworldwide.com
-.imrworldwide.com
 imtwjwoasak.com
 in.qbk1.com
 inapps.appsflyer.com
@@ -470,6 +476,7 @@ logx.optimizely.com
 lookaside.facebook.com
 lptag.liveperson.net
 luckyday.app.link
+m.dlx.addthis.com
 m.nsimg.net
 m.stripe.network
 m1.nsimg.net
@@ -501,6 +508,7 @@ ms.applvn.com
 munchkin.marketo.net
 native.sharethrough.com
 nav.sciencedirect.com
+nbcudisplay.s.moatpixel.com
 nbcume.sc.omtrdc.net
 nebula-cdn.kampyle.com
 news.iadsdk.apple.com
@@ -527,6 +535,8 @@ opus.analytics.yahoo.com
 osb.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb-ussvc.samsungqbe.com
+otnprd10.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
 p.adsymptotic.com
 p.imgur.com
 p.placed.com
@@ -566,6 +576,7 @@ prd.jwpltx.com
 prebid.adnxs.com
 prebid.districtm.ca
 presentation-atl1.turn.com
+prg.smartadserver.com
 prism.app-us1.com
 privacy-policy.truste.com
 privymktg.com
@@ -578,6 +589,7 @@ profusesupport.com
 projects.posttv.com
 pswec.com
 pubads.g.doubleclick.net
+pubgalaxy-com.videoplayerhub.com
 public.vilynx.com
 pubsub-edge.twitch.tv
 px.gfycat.com
@@ -613,6 +625,7 @@ recsys-api.buzzfeed.com
 reddit.app.link
 redirector.gvt.com
 referrer.disqus.com
+resources.infolinks.com
 ris.api.iris.microsoft.com
 rs.gwallet.com
 rt.analytics.anvato.net
@@ -823,6 +836,7 @@ vox.amp.permutive.com
 vs-api.voodoo-tech.io
 w.usabilla.com
 warmquiver.com
+web.hb.ad.cpe.dotomi.com
 web-analytics.smile.io
 widget.perfectmarket.com
 widget.trustpilot.com
@@ -834,6 +848,7 @@ www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
 www.informit.com
+www.samsungotn.net
 w-x.co
 x.bidswitch.net
 x.vindicosuite.com
