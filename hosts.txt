@@ -105,6 +105,7 @@ adblockplus.org
 addelivery-engine-api.voodoo-ads.io
 ade.googlesyndication.com
 adj.st
+adobe.tt.omtrdc.net
 adrta.com
 ads.adthrive.com
 ads.api.vungle.com
@@ -185,10 +186,13 @@ at.cbsi.com
 audio-ak-spotify-com.akamaized.net
 az725175.vo.msecnd.net
 b.config.skype.com
+b.scorecardresearch.com
 b.videoamp.com
 banner.advertising.com
 bats.video.yahoo.com
+b-code.liadm.com
 bcp.crwdcntrl.net
+bdg-analytics.appspot.com
 beacon.krxd.net
 beacon.shazam.com
 beacon.wikia-services.com
@@ -290,6 +294,7 @@ civicscience.com
 clc.stackoverflow.com
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
+cloudfront.loggly.com
 cm.g.doubleclick.net
 cms.analytics.yahoo.com
 cnet.cbsi.com
@@ -334,6 +339,7 @@ data.adxcel-ec.com
 data.adxcel-ec2.com
 dc.ads.linkedin.com
 de.nametests.com
+de.tynt.com
 delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
@@ -427,6 +433,7 @@ gurgle.zdbb.net
 hb.emxdgt.com
 hb.nexage.com
 hb.undertone.com
+hearst.gscontxt.net
 hello.myfonts.net
 hit.api.useinsider.com
 hotjar.com
@@ -449,6 +456,7 @@ id.rlcdn.com
 identity.mparticle.com
 ieonline.microsoft.com
 image.nametests.com
+image.prntscr.com
 image.useinsider.com
 images.outbrain.com
 imasdk.googleapis.com
@@ -470,10 +478,12 @@ iphonesubmissions.apple.com
 jogger.zdbb.net
 js.adsrvr.org
 js.agkn.com
+js.appboycdn.com
 js.datadome.co
 js.hsforms.net
 js.hs-scripts.com
 js.sentry-cdn.com
+jsc.idealmedia.com
 jssdkcdns.mparticle.com
 jwplayer.com
 jwpltx.com
@@ -517,6 +527,7 @@ media.trafficjunky.net
 media-akam.licdn.com
 medtargetsystem.com
 meter-svc.nytimes.com
+metrics.brightcove.com
 metrics.gfycat.com
 metrics.icloud.com
 mid.rkdms.com
@@ -602,6 +613,7 @@ powerad.ai
 pr.ybp.yahoo.com
 pr-bh.ybp.yahoo.com
 prd.jwpltx.com
+pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.districtm.ca
 presentation-atl1.turn.com
@@ -617,6 +629,7 @@ profile.localytics.com
 profusesupport.com
 projects.hearstnp.com
 projects.posttv.com
+pr-preprod-2.ybp.yahoo.com
 pswec.com
 pubads.g.doubleclick.net
 pubgalaxy-com.videoplayerhub.com
@@ -659,6 +672,7 @@ redirector.gvt.com
 referrer.disqus.com
 resources.infolinks.com
 ris.api.iris.microsoft.com
+rl.quantummetric.com
 rs.gwallet.com
 rt.analytics.anvato.net
 rt.applovin.com
@@ -688,6 +702,7 @@ s.yieldmo.com
 s.youtube.com
 s0.2mdn.net
 s0.wp.com
+s1.wp.com
 s100.copyright.com
 s2s.adjust.com
 s7.addthis.com
@@ -757,6 +772,7 @@ ssl.luckyorange.com
 ssl.o.medscape.com
 sslwidget.criteo.com
 s-static.innovid.com
+sstats.adobe.com
 ssum-sec.casalemedia.com
 stags.bluekai.com
 static.addtoany.com
@@ -784,6 +800,7 @@ storage.googleapis.com
 summerhamster.com
 sw88.go.com
 sxj8.adj.st
+sync.bfmio.com
 sync.ipredictive.com
 sync.mathtag.com
 sync.serverbid.com
@@ -849,6 +866,7 @@ us.creativecdn.com
 us.tags.newscgp.com
 usage.trackjs.com
 usbank.sc.omtrdc.net
+usbank-app.quantummetric.com
 use.typekit.net
 us-u.openx.net
 v.events.data.microsoft.com
@@ -881,6 +899,8 @@ widgets.outbrain.com
 wiley.grapeshot.co.uk
 ws.tapjoyads.com
 www.fastly-insights.com
+www.googleadservices.com
+www.googletagservices.com
 w-x.co
 xg4ken.com
 xp.apple.com
