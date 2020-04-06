@@ -87,6 +87,8 @@ a.quora.com
 a.teads.tv
 a.tribalfusion.com
 a.zdbb.net
+a248.e.akamai.net
+a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 aa.agkn.com
 aax.amazon-adsystem.com
@@ -102,6 +104,7 @@ ad.doubleclick.net
 ad.lkqd.net
 ad.turn.com
 adblockplus.org
+adc3-launch.adcolony.com
 addelivery-engine-api.voodoo-ads.io
 ade.googlesyndication.com
 adj.st
@@ -139,6 +142,7 @@ analytics.dvidshub.net
 analytics.localytics.com
 analytics.pinterest.com
 analytics.robinhood.com
+analytics.tdameritrade.com
 apex.go.sonobi.com
 api.altmetric.com
 api.amplitude.com
@@ -146,6 +150,7 @@ api.apptentive.com
 api.b2c.com
 api.bounceexchange.com
 api.branch.io
+api.condenast.io
 api.cortana.ai
 api.gameanalytics.com
 api.ipify.org
@@ -154,6 +159,7 @@ api.mixpanel.com
 api.pinterest.com
 api.privy.com
 api.rlcdn.com
+api.safedk.com
 api.sail-personalize.com
 api.simpleanalytics.io
 api.traq.li
@@ -167,6 +173,7 @@ api-v3.tinypass.com
 app.adjust.com
 app.leadsrx.com
 app-ab13.marketo.com
+appdeumext.tdameritrade.com
 apple.comscoreresearch.com
 app-measurement.com
 apps.samsungcloudcdn.com
@@ -243,6 +250,7 @@ cdn.cityspark.com
 cdn.concert.io
 cdn.cookielaw.org
 cdn.decibelinsight.net
+cdn.digitru.st
 cdn.districtm.ca
 cdn.districtm.io
 cdn.doubleverify.com
@@ -261,6 +269,7 @@ cdn.parsely.com
 cdn.pbbl.co
 cdn.permutive.com
 cdn.pricespider.com
+cdn.ravenjs.com
 cdn.rawgit.com
 cdn.samsungcloudsolution.com
 cdn.scarabresearch.com
@@ -274,12 +283,14 @@ cdn.vidible.tv
 cdn.walkme.com
 cdn.ziffstatic.com
 cdn0.forter.com
+cdn11.contentabc.com
 cdn2.inner-active.mobi
 cdn3.forter.com
 cdn3.optimizely.com
 cdn9.forter.com
 cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
+cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
 cdn-v3.conductrics.com
@@ -304,6 +315,7 @@ collect.tealiumiq.com
 collector-3215.tvsquared.com
 concertads-configs.vox-cdn.com
 confiant-integrations.global.ssl.fastly.net
+config.safedk.com
 config.samsungads.com
 config.skype.com
 config.uca.cloud.unity3d.com
@@ -371,6 +383,7 @@ edge-mcdn-beacon.secure.yahoo.com
 edgesuite.net
 ekr.zdassets.com
 embed.actionbutton.co
+engine.fyber.com
 enterprise.activity.windows.com
 entitlements.jwplayer.com
 et.nytimes.com
@@ -469,6 +482,7 @@ imtwjwoasak.com
 in.qbk1.com
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
+infinityid.condenastdigital.com
 informit.com
 ing-district.clicktale.net
 insight.adsrvr.org
@@ -645,19 +659,29 @@ qualtrics.com
 quantcast.mgr.consensu.org
 quicksilver.scdn.co
 r.skimresources.com
+r1---sn-a5mekner.googlevideo.com
 r1---sn-ab5szn7y.googlevideo.com
 r1---sn-ab5sznlk.googlevideo.com
+r2---sn-a5mlrn7y.googlevideo.com
 r2---sn-a5msen76.googlevideo.com
 r2---sn-ab5l6nzs.googlevideo.com
 r2---sn-ab5szn7z.googlevideo.com
 r2---sn-hp57ynez.googlevideo.com
+r2---sn-p5qlsndk.googlevideo.com
+r3---sn-25glene7.googlevideo.com
+r3---sn-25glenez.googlevideo.com
+r3---sn-4g5ednse.googlevideo.com
 r3---sn-ab5szn7z.googlevideo.com
 r3---sn-nx5s7n7s.googlevideo.com
 r4---sn-25glen7l.googlevideo.com
 r4---sn-nx57ynls.googlevideo.com
+r4---sn-nx5e6nez.googlevideo.com
+r4---sn-p5qlsnsk.googlevideo.com
 r4---sn-p5qs7nee.googlevideo.com
+r4---sn-vgqsrn7d.googlevideo.com
 r5---sn-5uaezn6y.googlevideo.com
 r5---sn-ab5szn7d.googlevideo.com
+r5---sn-p5qs7nes.googlevideo.com
 r5---sn-vgqsrnes.googlevideo.com
 r6---sn-25ge7nse.googlevideo.com
 r6---sn-p5qlsnsd.googlevideo.com
@@ -718,6 +742,7 @@ script.hotjar.com
 scripts.webcontentassessor.com
 sc-static.net
 sdc.cnn.com
+sdk-config.fyber.com
 sdks.shopifycdn.com
 search.spotxchange.com
 secure.adnxs.com
@@ -733,12 +758,14 @@ secure-us.imrworldwide.com
 segment.api.useinsider.com
 segment-data.zqtk.net
 segment-data-us-east.zqtk.net
+sejs.moatads.com
 sephora.tt.omtrdc.net
 sephora-live.inside-graph.com
 serve.cheqzone.com
 serve2.cheqzone.com
 servedby.flashtalking.com
 service.cmp.oath.com
+service.fyber.com
 services.fandom.com
 services.gfe.nvidia.com
 sessions.bugsnag.com
@@ -828,6 +855,7 @@ tealium.cbsnews.com
 telecommand.telemetry.microsoft.com
 telemetry.api.2kcoretech.online
 telemetry.malwarebytes.com
+teleport.soom.la
 tempest.services.disqus.com
 thehill-d.openx.net
 thrtle.com
@@ -898,6 +926,7 @@ widget.uservoice.com
 widgets.outbrain.com
 wiley.grapeshot.co.uk
 ws.tapjoyads.com
+www.civicscience.com
 www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
@@ -905,8 +934,10 @@ w-x.co
 xg4ken.com
 xp.apple.com
 xpu.samsungelectronics.com
+xw7k.adj.st
 ypu.samsungelectronics.com
 z.cn
+z.moatads.com
 zdbb.net
 z-na.amazon-adsystem.com
 zpu.samsungelectronics.com
