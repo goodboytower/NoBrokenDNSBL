@@ -73,11 +73,15 @@ mem.gfx.ms
 2o7.net
 3p.ampproject.net
 4139589.fls.doubleclick.net
+4449091.fls.doubleclick.net
 4495.adj.st
 5942083.fls.doubleclick.net
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
 8530010.fls.doubleclick.net
+8538009.fls.doubleclick.net
+8803560.fls.doubleclick.net
 9234103.fls.doubleclick.net
+9264223.fls.doubleclick.net
 a.ad.gt
 a.et.nytimes.com
 a.nytimes.com
@@ -87,6 +91,7 @@ a.quora.com
 a.teads.tv
 a.tribalfusion.com
 a.zdbb.net
+a2.adform.net
 a248.e.akamai.net
 a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
@@ -119,6 +124,7 @@ ads.pinterest.com
 ads.rubiconproject.com
 ads.samsungads.com
 ads.trafficjunky.net
+ads.yap.yahoo.com
 ads.yieldmo.com
 ads-e-darwin.hulustream.com
 adserver-us.adtech.advertising.com
@@ -137,12 +143,14 @@ amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 an.facebook.com
+analytics.ccs.mcafee.com
 analytics.chase.com
 analytics.dvidshub.net
 analytics.localytics.com
 analytics.pinterest.com
 analytics.robinhood.com
 analytics.tdameritrade.com
+analyticsdcs.ccs.mcafee.com
 apex.go.sonobi.com
 api.altmetric.com
 api.amplitude.com
@@ -162,10 +170,12 @@ api.rlcdn.com
 api.safedk.com
 api.sail-personalize.com
 api.simpleanalytics.io
+api.taboola.com
 api.traq.li
 api.whatsapp.com
 api2.branch.io
 api-gdpr.voodoo-tech.io
+apigw.scmp.com
 api-iam.intercom.io
 api-js.mixpanel.com
 api-us-east.zqtk.net
@@ -267,7 +277,10 @@ cdn.onesignal.com
 cdn.optimizely.com
 cdn.parsely.com
 cdn.pbbl.co
+cdn.pdst.fm
+cdn.pendo.io
 cdn.permutive.com
+cdn.petametrics.com
 cdn.pricespider.com
 cdn.ravenjs.com
 cdn.rawgit.com
@@ -279,6 +292,7 @@ cdn.subscribers.com
 cdn.taboola.com
 cdn.tinypass.com
 cdn.treasuredata.com
+cdn.uc.atwola.com
 cdn.vidible.tv
 cdn.walkme.com
 cdn.ziffstatic.com
@@ -303,6 +317,7 @@ cf.iadsdk.apple.com
 cheqzone.com
 civicscience.com
 clc.stackoverflow.com
+clickserv.basis.net
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 cloudfront.loggly.com
@@ -457,6 +472,7 @@ i.geistm.com
 i.ubm-us.net
 i.w55c.net
 i.wc.net
+i1.ytimg.com
 i2.ytimg.com
 i9.ytimg.com
 iadsdk.apple.com
@@ -489,11 +505,13 @@ insight.adsrvr.org
 integrations.fitanalytics.com
 invitation.samsungiotcloud.com
 iphonesubmissions.apple.com
+ir.surveywall-api.survata.com
 jogger.zdbb.net
 js.adsrvr.org
 js.agkn.com
 js.appboycdn.com
 js.datadome.co
+js.honeybadger.io
 js.hsforms.net
 js.hs-scripts.com
 js.sentry-cdn.com
@@ -507,6 +525,7 @@ krxd.net
 l.sharethis.com
 l9bjkkhaycw6f8f4.soundcloud.com
 launches.appsflyer.com
+lciapi.ninthdecimal.com
 lcprd1.samsungcloudsolution.net
 licensingphone.mp.microsoft.com
 links.services.disqus.com
@@ -519,6 +538,7 @@ log.api.useinsider.com
 log.outbrain.com
 log.pinterest.com
 log-config.samsungacr.com
+logfiles.zoom.us
 logger.adthrive.com
 log-ingestion.samsungacr.com
 logx.optimizely.com
@@ -531,6 +551,7 @@ m.stripe.network
 m1.nsimg.net
 m2.nsimg.net
 mads.amazon-adsystem.com
+mailfoogae.appspot.com
 manifest.localytics.com
 markedmeasure.com
 marmalade.adthrive.com
@@ -640,6 +661,7 @@ prod.adspsp.com
 prod.cdn.powerbi.com
 production-cmp.isgprivacy.cbsi.com
 profile.localytics.com
+profiles.ope.scmp.com
 profusesupport.com
 projects.hearstnp.com
 projects.posttv.com
@@ -680,12 +702,18 @@ r4---sn-p5qlsnsk.googlevideo.com
 r4---sn-p5qs7nee.googlevideo.com
 r4---sn-vgqsrn7d.googlevideo.com
 r5---sn-5uaezn6y.googlevideo.com
+r5---sn-a5msen7s.googlevideo.com
 r5---sn-ab5szn7d.googlevideo.com
+r5---sn-ab5sznlk.googlevideo.com
 r5---sn-p5qs7nes.googlevideo.com
 r5---sn-vgqsrnes.googlevideo.com
 r6---sn-25ge7nse.googlevideo.com
+r6---sn-a5mekney.googlevideo.com
+r6---sn-ab5l6nzk.googlevideo.com
+r6---sn-hp57knsl.googlevideo.com
 r6---sn-p5qlsnsd.googlevideo.com
 radar.cedexis.com
+rawdata-asia.55labs.com
 rc.rlcdn.com
 realtime.services.disqus.com
 recommendation-hybrid.wpdigital.net
@@ -695,6 +723,7 @@ reddit.app.link
 redirector.gvt.com
 referrer.disqus.com
 resources.infolinks.com
+resources.xg4ken.com
 ris.api.iris.microsoft.com
 rl.quantummetric.com
 rs.gwallet.com
@@ -736,6 +765,7 @@ sak.userreport.com
 samsungotn.net
 sas.samsungcloudsolution.com
 sc81298620llms1.cobrowse.oraclecloud.com
+scmp.gscontxt.net
 scout-cdn.salesloft.com
 script.crazyegg.com
 script.hotjar.com
@@ -747,6 +777,7 @@ sdks.shopifycdn.com
 search.spotxchange.com
 secure.adnxs.com
 secure.gravatar.com
+secure.img-cdn.mediaplex.com
 secure.insightexpressai.com
 secure.quantserve.com
 secure-ds.serving-sys.com
@@ -789,6 +820,7 @@ sofia.trustx.org
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
 splash-screen.voodoo-ads.io
+sponge.creditkarma.com
 sqs.us-east-1.amazonaws.com
 squirrelhands.com
 srtb.msn.com
@@ -802,6 +834,7 @@ s-static.innovid.com
 sstats.adobe.com
 ssum-sec.casalemedia.com
 stags.bluekai.com
+stat.flashtalking.com
 static.addtoany.com
 static.bytedance.com
 static.chartbeat.com
@@ -834,6 +867,7 @@ sync.serverbid.com
 sync-tm.everesttech.net
 syndication.twitter.com
 t.appsflyer.com
+t.co
 t.indeed.com
 t.mookie1.com
 t.myvisualiq.net
@@ -846,8 +880,10 @@ tag.researchnow.com
 tag.simpli.fi
 tag.yieldoptimizer.com
 tagan.adlightning.com
+tagger.ope.scmp.com
 tags.bkrtx.com
 tags.bluekai.com
+tags.creditkarma.com
 tags.crwdcntrl.net
 tags.w55c.net
 tapestry.tapad.com
@@ -871,6 +907,7 @@ track.tenjin.io
 tracker.samplicio.us
 trackers.voodoo-analytics.io
 tracking.g2crowd.com
+trc.taboola.com
 treg.hearstnp.com
 trends.revcontent.com
 triggers.wfxtriggers.com
@@ -896,6 +933,7 @@ usage.trackjs.com
 usbank.sc.omtrdc.net
 usbank-app.quantummetric.com
 use.typekit.net
+use-tor.adsrvr.org
 us-u.openx.net
 v.events.data.microsoft.com
 v.shopify.com
@@ -927,10 +965,13 @@ widgets.outbrain.com
 wiley.grapeshot.co.uk
 ws.tapjoyads.com
 www.civicscience.com
+www.doubleclickbygoogle.com
 www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
+www.tapresearch.com
 w-x.co
+x2.mookie1.com
 xg4ken.com
 xp.apple.com
 xpu.samsungelectronics.com
