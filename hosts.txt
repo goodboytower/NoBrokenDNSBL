@@ -142,6 +142,7 @@ ampcid.google.com
 amp-error-reporting.appspot.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
+amprtc.media.net
 an.facebook.com
 analytics.ccs.mcafee.com
 analytics.chase.com
@@ -162,9 +163,11 @@ api.condenast.io
 api.cortana.ai
 api.gameanalytics.com
 api.ipify.org
+api.kinja.com
 api.mapbox.com
 api.mixpanel.com
 api.pinterest.com
+api.placed.com
 api.privy.com
 api.rlcdn.com
 api.safedk.com
@@ -173,6 +176,7 @@ api.simpleanalytics.io
 api.taboola.com
 api.traq.li
 api.whatsapp.com
+api.yotpo.com
 api2.branch.io
 api-gdpr.voodoo-tech.io
 apigw.scmp.com
@@ -264,6 +268,7 @@ cdn.digitru.st
 cdn.districtm.ca
 cdn.districtm.io
 cdn.doubleverify.com
+cdn.evgnet.com
 cdn.heapanalytics.com
 cdn.iubenda.com
 cdn.jsdelivr.net
@@ -307,6 +312,7 @@ cdn-gl.imrworldwide.com
 cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
+cdn-usent.kampyle.com
 cdn-v3.conductrics.com
 cdp.cloud.unity3d.com
 ced.sascdn.com
@@ -314,6 +320,7 @@ ced-ns.sascdn.com
 certify.alexametrics.com
 certify-js.alexametrics.com
 cf.iadsdk.apple.com
+chatidcdn.com
 cheqzone.com
 civicscience.com
 clc.stackoverflow.com
@@ -424,6 +431,7 @@ firebaselogging.googleapis.com
 fonts.gstatic.com
 forms.gle
 fp.msedge.net
+fresnel.vimeocdn.com
 front-logs.voodoo-ads.io
 fullstory.com
 fundingchoicesmessages.google.com
@@ -461,6 +469,7 @@ gurgle.zdbb.net
 hb.emxdgt.com
 hb.nexage.com
 hb.undertone.com
+hbx.media.net
 hearst.gscontxt.net
 hello.myfonts.net
 hit.api.useinsider.com
@@ -484,6 +493,7 @@ id.google.com
 id.rlcdn.com
 identity.mparticle.com
 ieonline.microsoft.com
+iframe.chatid.com
 image.nametests.com
 image.prntscr.com
 image.useinsider.com
@@ -499,11 +509,13 @@ in.qbk1.com
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
+info2t.com
 informit.com
 ing-district.clicktale.net
 insight.adsrvr.org
 integrations.fitanalytics.com
 invitation.samsungiotcloud.com
+ipapi.co
 iphonesubmissions.apple.com
 ir.surveywall-api.survata.com
 jogger.zdbb.net
@@ -514,11 +526,13 @@ js.datadome.co
 js.honeybadger.io
 js.hsforms.net
 js.hs-scripts.com
+js.pusher.com
 js.sentry-cdn.com
 jsc.idealmedia.com
 jssdkcdns.mparticle.com
 jwplayer.com
 jwpltx.com
+kinja.com
 kpu.samsungelectronics.com
 krk.kargo.com
 krxd.net
@@ -544,6 +558,7 @@ log-ingestion.samsungacr.com
 logx.optimizely.com
 lookaside.facebook.com
 lptag.liveperson.net
+ls.chatid.com
 luckyday.app.link
 m.dlx.addthis.com
 m.nsimg.net
@@ -696,6 +711,7 @@ r3---sn-4g5ednse.googlevideo.com
 r3---sn-ab5szn7z.googlevideo.com
 r3---sn-nx5s7n7s.googlevideo.com
 r4---sn-25glen7l.googlevideo.com
+r4---sn-a5meknzs.googlevideo.com
 r4---sn-nx57ynls.googlevideo.com
 r4---sn-nx5e6nez.googlevideo.com
 r4---sn-p5qlsnsk.googlevideo.com
@@ -775,6 +791,7 @@ sdc.cnn.com
 sdk-config.fyber.com
 sdks.shopifycdn.com
 search.spotxchange.com
+searchwebmobile.com
 secure.adnxs.com
 secure.gravatar.com
 secure.img-cdn.mediaplex.com
@@ -835,6 +852,7 @@ sstats.adobe.com
 ssum-sec.casalemedia.com
 stags.bluekai.com
 stat.flashtalking.com
+static.ada.support
 static.addtoany.com
 static.bytedance.com
 static.chartbeat.com
@@ -852,6 +870,7 @@ static.vilynx.com
 static.wikia.nocookie.net
 static.yieldmo.com
 static.ziffdavis.com
+staticw2.yotpo.com
 stats.bluebillywig.com
 stats.defense.gov
 stats.g.doubleclick.net
@@ -881,12 +900,14 @@ tag.simpli.fi
 tag.yieldoptimizer.com
 tagan.adlightning.com
 tagger.ope.scmp.com
+taglocker.target.com
 tags.bkrtx.com
 tags.bluekai.com
 tags.creditkarma.com
 tags.crwdcntrl.net
 tags.w55c.net
 tapestry.tapad.com
+tar.userreplay.net
 tealium.cbsnews.com
 telecommand.telemetry.microsoft.com
 telemetry.api.2kcoretech.online
@@ -931,6 +952,7 @@ us.creativecdn.com
 us.tags.newscgp.com
 usage.trackjs.com
 usbank.sc.omtrdc.net
+usbank.tt.omtrdc.net
 usbank-app.quantummetric.com
 use.typekit.net
 use-tor.adsrvr.org
@@ -955,7 +977,9 @@ vo.msecnd.net
 vox.amp.permutive.com
 vs-api.voodoo-tech.io
 w.usabilla.com
+waplove.cn
 warmquiver.com
+waves.retentionscience.com
 web.hb.ad.cpe.dotomi.com
 web-analytics.smile.io
 widget.perfectmarket.com
@@ -963,6 +987,7 @@ widget.trustpilot.com
 widget.uservoice.com
 widgets.outbrain.com
 wiley.grapeshot.co.uk
+ws.sessioncam.com
 ws.tapjoyads.com
 www.civicscience.com
 www.doubleclickbygoogle.com
