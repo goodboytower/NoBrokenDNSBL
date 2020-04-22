@@ -73,6 +73,7 @@ mem.gfx.ms
 2o7.net
 3p.ampproject.net
 4139589.fls.doubleclick.net
+4168207.fls.doubleclick.net
 4449091.fls.doubleclick.net
 4495.adj.st
 5942083.fls.doubleclick.net
@@ -99,6 +100,7 @@ aa.agkn.com
 aax.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 abeagle-public.buzzfeed.com
+accounts.doubleclick.net
 acr0.samsungcloudsolution.com
 activity.windows.com
 acuityplatform.com
@@ -115,6 +117,7 @@ ade.googlesyndication.com
 adj.st
 adobe.tt.omtrdc.net
 adrta.com
+ads.adaptv.advertising.com
 ads.adthrive.com
 ads.api.vungle.com
 ads.celtra.com
@@ -131,6 +134,7 @@ adserver-us.adtech.advertising.com
 adservice.google.ca
 adservice.google.com
 adservice.google.de
+adspsp.com
 adsrvr.org
 ae.nflximg.net
 agility.cnn.com
@@ -168,6 +172,7 @@ api.kinja.com
 api.mapbox.com
 api.mixpanel.com
 api.pinterest.com
+api.placed.com
 api.privy.com
 api.rlcdn.com
 api.safedk.com
@@ -194,6 +199,7 @@ appsitemsuggest-pa.googleapis.com
 aps.hearstnp.com
 apu.samsungelectronics.com
 arc.msn.com
+ardrone.swoop.com
 assets.adobedtm.com
 assets.revcontent.com
 assets.ubembed.com
@@ -221,6 +227,7 @@ beacon01.alma.exlibrisgroup.com
 beacons.extremereach.io
 beacons5.gvt3.com
 b-graph.facebook.com
+bh.contextweb.com
 bid.g.doubleclick.net
 bidbarrel.cbsnews.com
 bidder.criteo.com
@@ -272,6 +279,7 @@ cdn.districtm.io
 cdn.doubleverify.com
 cdn.heapanalytics.com
 cdn.iubenda.com
+cdn.izooto.com
 cdn.jsdelivr.net
 cdn.keywee.co
 cdn.krxd.net
@@ -299,6 +307,7 @@ cdn.springserve.com
 cdn.subscribers.com
 cdn.taboola.com
 cdn.tinypass.com
+cdn.tpdads.com
 cdn.treasuredata.com
 cdn.uc.atwola.com
 cdn.vidible.tv
@@ -312,6 +321,7 @@ cdn3.optimizely.com
 cdn9.forter.com
 cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
+cdns.brsrvr.com
 cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
@@ -331,6 +341,7 @@ clickserv.basis.net
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 cloudfront.loggly.com
+cloudfront-labs.amazonaws.com
 cm.g.doubleclick.net
 cms.analytics.yahoo.com
 cnet.cbsi.com
@@ -359,6 +370,7 @@ contributor.google.com
 countess.twitch.tv
 cp.ebbp.pro
 cpu.samsungelectronics.com
+creativecdn.com
 crosspromo.voodoo.io
 crumbs.robinhood.com
 crwdcntrl.net
@@ -431,6 +443,7 @@ firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
+fm.cnbc.com
 fonts.gstatic.com
 forms.gle
 fp.msedge.net
@@ -444,6 +457,7 @@ g.jwpsrv.com
 g.pcmag.com
 g.symcd.com
 g2.gumgum.com
+gannett-d.openx.net
 ganon.yahoo.com
 gate.hockeyapp.net
 gateway.foresee.com
@@ -496,6 +510,8 @@ ice.360yield.com
 id.google.com
 id.rlcdn.com
 identity.mparticle.com
+idsync.rlcdn.com
+idx.liadm.com
 ieonline.microsoft.com
 image.nametests.com
 image.prntscr.com
@@ -545,6 +561,7 @@ labs-cdn.revcontent.com
 launches.appsflyer.com
 lciapi.ninthdecimal.com
 lcprd1.samsungcloudsolution.net
+libs.coremetrics.com
 licensingphone.mp.microsoft.com
 links.services.disqus.com
 live.adyen.com
@@ -558,23 +575,31 @@ log.pinterest.com
 log-config.samsungacr.com
 logfiles.zoom.us
 logger.adthrive.com
+login.dotomi.com
 log-ingestion.samsungacr.com
 logx.optimizely.com
 lookaside.facebook.com
 lptag.liveperson.net
 luckyday.app.link
+m.addthis.com
+m.addthisedge.com
 m.dlx.addthis.com
 m.nsimg.net
 m.stripe.network
 m1.nsimg.net
 m2.nsimg.net
+mab.chartbeat.com
 mads.amazon-adsystem.com
 mailfoogae.appspot.com
+main.pubexchange.com
+make.cohesionapps.com
 manifest.localytics.com
 markedmeasure.com
 marmalade.adthrive.com
 match.adsrvr.org
 mb.moatads.com
+mc.yandex.ru
+meatydime.com
 media.trafficjunky.com
 media.trafficjunky.net
 media-akam.licdn.com
@@ -583,7 +608,9 @@ meter-svc.nytimes.com
 metrics.brightcove.com
 metrics.gfycat.com
 metrics.icloud.com
+metrics.victoriassecret.com
 mid.rkdms.com
+miiidpdh.micpn.com
 ml314.com
 mms.cnn.com
 moatads.com
@@ -593,9 +620,11 @@ monorail-edge.shopifysvc.com
 mookie1.com
 mormont.gamer-network.net
 mpp.vindicosuite.com
+mps.cnbc.com
 mps.nbcuni.com
 ms.applovin.com
 ms.applvn.com
+mssl.fwmrm.net
 munchkin.marketo.net
 native.sharethrough.com
 nav.sciencedirect.com
@@ -652,6 +681,7 @@ pixel.mathtag.com
 pixel.moatads.com
 pixel.mtrcs.samba.tv
 pixel.quantserve.com
+pixel.rubiconproject.com
 pixel.watch
 pixel.wp.com
 pixel-sync.sitescout.com
@@ -669,6 +699,8 @@ prd.jwpltx.com
 pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.districtm.ca
+prebid.media.net
+prebid-server.rubiconproject.com
 preferences.trustarc.com
 presentation-atl1.turn.com
 prg.smartadserver.com
@@ -693,6 +725,7 @@ pubsub-edge.twitch.tv
 px.gfycat.com
 px.moatads.com
 px.owneriq.net
+px.powerlinks.com
 q4mn.adj.st
 qab.hextom.com
 qqrp.adj.st
@@ -709,6 +742,7 @@ r2---sn-a5msen76.googlevideo.com
 r2---sn-ab5l6nzs.googlevideo.com
 r2---sn-ab5szn7z.googlevideo.com
 r2---sn-hp57ynez.googlevideo.com
+r2---sn-nx57ynlz.googlevideo.com
 r2---sn-p5qlsndk.googlevideo.com
 r3---sn-25glene7.googlevideo.com
 r3---sn-25glenez.googlevideo.com
@@ -746,10 +780,12 @@ resources.infolinks.com
 resources.xg4ken.com
 ris.api.iris.microsoft.com
 rl.quantummetric.com
+rs.fullstory.com
 rs.gwallet.com
 rt.analytics.anvato.net
 rt.applovin.com
 rt.applvn.com
+rtb.mfadsrvr.com
 rtd-tm.everesttech.net
 rtk.io
 rubick.gameanalytics.com
@@ -761,6 +797,7 @@ run.adrizer.com
 s.addthis.com
 s.amazon-adsystem.com
 s.btstatic.com
+s.clickability.com
 s.go-mpulse.net
 s.innovid.com
 s.ipstatp.com
@@ -792,6 +829,7 @@ script.hotjar.com
 scripts.webcontentassessor.com
 sc-static.net
 sdc.cnn.com
+sdk.iad-03.braze.com
 sdk-config.fyber.com
 sdks.shopifycdn.com
 search.spotxchange.com
@@ -804,6 +842,7 @@ secure.quantserve.com
 secure-ds.serving-sys.com
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
+securemetrics.apple.com
 securepubads.g.doubleclick.net
 secure-sts-prod.imrworldwide.com
 secure-us.imrworldwide.com
@@ -817,6 +856,7 @@ sephora-live.inside-graph.com
 serve.cheqzone.com
 serve2.cheqzone.com
 servedby.flashtalking.com
+server.exposebox.com
 service.cmp.oath.com
 service.fyber.com
 services.fandom.com
@@ -841,10 +881,12 @@ snippets.cdn.mozilla.net
 sofia.trustx.org
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
+spade.twitch.tv
 splash-screen.voodoo-ads.io
 sponge.creditkarma.com
 sqs.us-east-1.amazonaws.com
 squirrelhands.com
+srepdata.freep.com
 srtb.msn.com
 srv.pixel.parsely.com
 ss.adjust.com
@@ -859,12 +901,14 @@ ssum-sec.casalemedia.com
 stags.bluekai.com
 stat.flashtalking.com
 static.addtoany.com
+static.adsafeprotected.com
 static.bytedance.com
 static.chartbeat.com
 static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
 static.hotjar.com
+static.intercomassets.com
 static.iterable.com
 static.klaviyo.com
 static.olark.com
@@ -882,6 +926,7 @@ stats.g.doubleclick.net
 stats.wp.com
 storage.googleapis.com
 summerhamster.com
+supportmetrics.apple.com
 sw88.go.com
 sxj8.adj.st
 sync.bfmio.com
@@ -940,6 +985,7 @@ trk.techtarget.com
 trk.vidible.tv
 trkn.us
 tru.am
+try.abtasty.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 uberm.bttn.io
 ubm.tt.omtrdc.net
@@ -961,6 +1007,7 @@ use-tor.adsrvr.org
 us-u.openx.net
 v.events.data.microsoft.com
 v.shopify.com
+v1.addthisedge.com
 v10.events.data.microsoft.com
 v2.zopim.com
 v20.events.data.microsoft.com
@@ -990,14 +1037,19 @@ widgets.outbrain.com
 wiley.grapeshot.co.uk
 ws.tapjoyads.com
 www.civicscience.com
+www.dianomi.com
 www.doubleclickbygoogle.com
 www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
 www.honcode.ch
 www.powr.io
+www.res-x.com
+www.swpsvc.com
 www.tapresearch.com
+www25.victoriassecret.com
 w-x.co
+x.bidswitch.net
 x2.mookie1.com
 xg4ken.com
 xp.apple.com
