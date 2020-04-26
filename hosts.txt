@@ -77,6 +77,7 @@ mem.gfx.ms
 4495.adj.st
 5942083.fls.doubleclick.net
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
+79423.analytics.edgekey.net
 8530010.fls.doubleclick.net
 8538009.fls.doubleclick.net
 8803560.fls.doubleclick.net
@@ -84,6 +85,7 @@ mem.gfx.ms
 9264223.fls.doubleclick.net
 a.ad.gt
 a.et.nytimes.com
+a.klaviyo.com
 a.nytimes.com
 a.opmnstr.com
 a.postrelease.com
@@ -121,6 +123,7 @@ ads.celtra.com
 ads.ehealthcaresolutions.com
 ads.mopub.com
 ads.pinterest.com
+ads.pro-market.net
 ads.rubiconproject.com
 ads.samsungads.com
 ads.trafficjunky.net
@@ -223,6 +226,8 @@ beacon01.alma.exlibrisgroup.com
 beacons.extremereach.io
 beacons5.gvt3.com
 b-graph.facebook.com
+bh.contextweb.com
+bid.contextweb.com
 bid.g.doubleclick.net
 bidbarrel.cbsnews.com
 bidder.criteo.com
@@ -233,6 +238,7 @@ bnc.lt
 bob.dmpxs.com
 bpu.samsungelectronics.com
 browser.sentry-cdn.com
+browser-update.org
 bs.serving-sys.com
 bttn.io
 bttrack.com
@@ -307,6 +313,7 @@ cdn.tinypass.com
 cdn.treasuredata.com
 cdn.uc.atwola.com
 cdn.vidible.tv
+cdn.vuukle.com
 cdn.walkme.com
 cdn.ziffstatic.com
 cdn0.forter.com
@@ -336,6 +343,7 @@ citicorpcreditservic.tt.omtrdc.net
 civicscience.com
 clc.stackoverflow.com
 clickserv.basis.net
+clickserve.dartsearch.net
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 cloudfront.loggly.com
@@ -435,6 +443,7 @@ events.privy.com
 events.samsungads.com
 events.tremorhub.com
 ews.netgate.com
+experience.tinypass.com
 fast.a.klaviyo.com
 fast.wistia.com
 fbwat.ch
@@ -489,6 +498,7 @@ hbx.media.net
 heads-fa.scdn.co
 hearst.gscontxt.net
 hello.myfonts.net
+hexagon-analytics.com
 hit.api.useinsider.com
 horusii.vemba.io
 hotjar.com
@@ -566,6 +576,7 @@ live.adyen.com
 liveperson.net
 llnwd.net
 loadm.exelator.com
+loadus.exelator.com
 location.api.useinsider.com
 log.api.useinsider.com
 log.outbrain.com
@@ -578,6 +589,8 @@ logx.optimizely.com
 lookaside.facebook.com
 lptag.liveperson.net
 luckyday.app.link
+m.addthis.com
+m.addthisedge.com
 m.dlx.addthis.com
 m.nsimg.net
 m.stripe.network
@@ -600,6 +613,7 @@ metrics.gfycat.com
 metrics.icloud.com
 metrics1.citibankonline.com
 mid.rkdms.com
+middycdn-a.akamaihd.net
 ml314.com
 mms.cnn.com
 moatads.com
@@ -765,6 +779,7 @@ resources.infolinks.com
 resources.xg4ken.com
 ris.api.iris.microsoft.com
 rl.quantummetric.com
+rpc-php.trafficfactory.biz
 rs.gwallet.com
 rt.analytics.anvato.net
 rt.applovin.com
@@ -809,6 +824,7 @@ scout-cdn.salesloft.com
 script.crazyegg.com
 script.hotjar.com
 scripts.webcontentassessor.com
+scripttags.justuno.com
 sc-static.net
 sdc.cnn.com
 sdk.iad-03.braze.com
@@ -857,11 +873,13 @@ siteimproveanalytics.com
 siteintercept.qualtrics.com
 smartlock.google.com
 smetrics.elsevier.com
+smetrics.foxnews.com
 smetrics.nintendo.com
 smetrics.sephora.com
 smetrics.washingtonpost.com
 snap.licdn.com
 snippets.cdn.mozilla.net
+socialize.us1.gigya.com
 sofia.trustx.org
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
@@ -924,6 +942,7 @@ t.mookie1.com
 t.myvisualiq.net
 t.teads.tv
 tag.bounceexchange.com
+tag.crsspxl.com
 tag.demandbase.com
 tag.getdrip.com
 tag.mtrcs.samba.tv
@@ -947,6 +966,7 @@ tempest.services.disqus.com
 thehill-d.openx.net
 thrtle.com
 time.samsungcloudsolution.com
+tinyurl.com
 tlx.3lift.com
 tlx.lift.com
 tpc.googlesyndication.com
@@ -968,6 +988,7 @@ trk.vidible.tv
 trkn.us
 tru.am
 tsfe.trafficshaping.dsp.mp.microsoft.com
+u.heatmap.it
 uberm.bttn.io
 ubm.tt.omtrdc.net
 udc.yahoo.com
@@ -1023,12 +1044,15 @@ wiley.grapeshot.co.uk
 ws.tapjoyads.com
 www.civicscience.com
 www.doubleclickbygoogle.com
+www.dwin2.com
 www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
 www.honcode.ch
 www.modulepush.com
+www.npttech.com
 www.powr.io
+www.summerhamster.com
 www.tapresearch.com
 www.tribdss.com
 w-x.co
