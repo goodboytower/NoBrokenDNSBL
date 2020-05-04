@@ -323,6 +323,7 @@ cdn3.forter.com
 cdn3.optimizely.com
 cdn5.userzoom.com
 cdn9.forter.com
+cdn-akamai.mookie1.com
 cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
 cdn-magiclinks.trackonomics.net
@@ -382,11 +383,13 @@ crwdcntrl.net
 cse.google.com
 csi.gstatic.com
 cstat.apple.com
+cti.w55c.net
 cws-hulu.conviva.com
 d.agkn.com
 d.applovin.com
 d.applvn.com
 d.flashtalking.com 
+d.impactradius-event.com
 d.turn.com
 d9.flashtalking.com
 dap.digitalgov.gov
@@ -471,6 +474,7 @@ gateway.foresee.com
 geo.qualaroo.com
 geo.query.yahoo.com
 geo.yahoo.com
+geo2.adobe.com
 geoip-db.com
 geolocation.onetrust.com
 getpocket.com
@@ -542,6 +546,7 @@ informit.com
 ing-district.clicktale.net
 insight.adsrvr.org
 integrations.fitanalytics.com
+intljs.rmtag.com
 invitation.samsungiotcloud.com
 ipapi.co
 iphonesubmissions.apple.com
@@ -603,6 +608,8 @@ markedmeasure.com
 marmalade.adthrive.com
 match.adsrvr.org
 mb.moatads.com
+mc.yandex.ru
+mcafee12.tt.omtrdc.net
 media.trafficjunky.com
 media.trafficjunky.net
 media-akam.licdn.com
@@ -619,6 +626,7 @@ mms.cnn.com
 moatads.com
 mobile.eum-appdynamics.com
 mobile.pipe.aria.microsoft.com
+mobile-collector.newrelic.com
 monorail-edge.shopifysvc.com
 mookie1.com
 mormont.gamer-network.net
@@ -668,6 +676,7 @@ p.tvpixel.com
 p.typekit.net
 pagead.googlesyndication.com
 pagead2.googlesyndication.com
+page-events-ustats.udemy.com
 partner.googleadservices.com
 peoplegraph.firstpartyapps.oaspapps.com
 phonograph.voxmedia.com
@@ -691,6 +700,7 @@ pixiedust.buzzfeed.com
 platform.twitter.com
 platform-api.sharethis.com
 play.google.com
+player.aniview.com
 playlist.megaphone.fm
 pls.webtype.com
 polyfill.io
@@ -874,6 +884,7 @@ siteintercept.qualtrics.com
 smartlock.google.com
 smetrics.elsevier.com
 smetrics.foxnews.com
+smetrics.mcafee.com
 smetrics.nintendo.com
 smetrics.sephora.com
 smetrics.washingtonpost.com
@@ -927,12 +938,14 @@ stats.wp.com
 storage.googleapis.com
 summerhamster.com
 supportmetrics.apple.com
+survey.g.doubleclick.net
 sw88.go.com
 sxj8.adj.st
 sync.bfmio.com
 sync.ipredictive.com
 sync.mathtag.com
 sync.serverbid.com
+sync.teads.tv
 sync-tm.everesttech.net
 syndication.twitter.com
 t.appsflyer.com
@@ -1044,6 +1057,7 @@ wiley.grapeshot.co.uk
 ws.tapjoyads.com
 www.civicscience.com
 www.doubleclickbygoogle.com
+www.dwin1.com
 www.dwin2.com
 www.fastly-insights.com
 www.googleadservices.com
