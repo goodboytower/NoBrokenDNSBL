@@ -70,6 +70,7 @@ mem.gfx.ms
 .liveperson.net
 100007920.collect.igodigital.com
 1cdn.memo.co
+2906542.fls.doubleclick.net
 2o7.net
 3p.ampproject.net
 4139589.fls.doubleclick.net
@@ -85,6 +86,7 @@ mem.gfx.ms
 9264223.fls.doubleclick.net
 a.ad.gt
 a.et.nytimes.com
+a.exosrv.com
 a.klaviyo.com
 a.nytimes.com
 a.opmnstr.com
@@ -121,6 +123,7 @@ ads.adthrive.com
 ads.api.vungle.com
 ads.celtra.com
 ads.ehealthcaresolutions.com
+ads.exosrv.com
 ads.mopub.com
 ads.pinterest.com
 ads.pro-market.net
@@ -151,6 +154,7 @@ an.facebook.com
 analytics.ccs.mcafee.com
 analytics.chase.com
 analytics.dvidshub.net
+analytics.kaltura.com
 analytics.localytics.com
 analytics.pinterest.com
 analytics.robinhood.com
@@ -270,6 +274,7 @@ cdn.blueconic.net
 cdn.boomtrain.com
 cdn.bootcss.com
 cdn.branch.io
+cdn.bttrack.com
 cdn.carbonads.com
 cdn.cityspark.com
 cdn.concert.io
@@ -370,11 +375,13 @@ connect.tapjoy.com
 consent.cmp.oath.com
 consent.cookiebot.com
 container.pepperjam.com
+content.mql5.com
 content22.citibankonline.com
 contextual.media.net
 continuum.dds.microsoft.com
 contributor.google.com
 countess.twitch.tv
+count-server.sharethis.com
 cp.ebbp.pro
 cpu.samsungelectronics.com
 crosspromo.voodoo.io
@@ -385,6 +392,7 @@ csi.gstatic.com
 cstat.apple.com
 cti.w55c.net
 cws-hulu.conviva.com
+cx.atdmt.com
 d.agkn.com
 d.applovin.com
 d.applvn.com
@@ -401,6 +409,7 @@ de.tynt.com
 delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
+dev.visualwebsiteoptimizer.com
 device-provisioning.googleapis.com
 di.rlcdn.com
 diffuser-cdn.app-us1.com
@@ -425,6 +434,7 @@ e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 eb.trbas.com
 ecommerce.iap.unity3d.com
 edba.brealtime.com
+edge.simplereach.com
 edge1.certona.net
 edgecast-vod.yahoo.net
 edge-mcdn-beacon.secure.yahoo.com
@@ -455,6 +465,7 @@ firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
+fls.doubleclick.net
 fonts.gstatic.com
 forms.gle
 fp.msedge.net
@@ -524,6 +535,7 @@ ice.360yield.com
 id.google.com
 id.rlcdn.com
 identity.mparticle.com
+idsync.rlcdn.com
 ieonline.microsoft.com
 image.nametests.com
 image.prntscr.com
@@ -603,6 +615,7 @@ m1.nsimg.net
 m2.nsimg.net
 mads.amazon-adsystem.com
 mailfoogae.appspot.com
+main.exosrv.com
 manifest.localytics.com
 markedmeasure.com
 marmalade.adthrive.com
@@ -672,6 +685,7 @@ p.adsymptotic.com
 p.ctpost.com
 p.imgur.com
 p.placed.com
+p.travelsmarter.net
 p.tvpixel.com
 p.typekit.net
 pagead.googlesyndication.com
@@ -728,6 +742,7 @@ projects.hearstnp.com
 projects.posttv.com
 pr-preprod-2.ybp.yahoo.com
 pswec.com
+pt.ispot.tv
 pubads.g.doubleclick.net
 pubgalaxy-com.videoplayerhub.com
 public.vilynx.com
@@ -785,6 +800,7 @@ recsys-api.buzzfeed.com
 reddit.app.link
 redirector.gvt.com
 referrer.disqus.com
+remarket.clicktripz.com
 resources.infolinks.com
 resources.xg4ken.com
 ris.api.iris.microsoft.com
@@ -878,11 +894,13 @@ settings.luckyorange.net
 settings-ssl.xboxlive.com
 share.robinhood.com
 shopify.privy.com
+simplesharebuttons.com
 sirius.mwbsys.com
 siteimproveanalytics.com
 siteintercept.qualtrics.com
 smartlock.google.com
 smetrics.elsevier.com
+smetrics.fedex.com
 smetrics.foxnews.com
 smetrics.mcafee.com
 smetrics.nintendo.com
@@ -919,6 +937,7 @@ static.chartbeat.com
 static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
+static.exosrv.com
 static.hotjar.com
 static.iterable.com
 static.klaviyo.com
@@ -931,9 +950,11 @@ static.wikia.nocookie.net
 static.yieldmo.com
 static.ziffdavis.com
 staticw2.yotpo.com
+stats.berkman.harvard.edu
 stats.bluebillywig.com
 stats.defense.gov
 stats.g.doubleclick.net
+stats.kaltura.com
 stats.wp.com
 storage.googleapis.com
 summerhamster.com
@@ -1066,6 +1087,7 @@ www.honcode.ch
 www.modulepush.com
 www.npttech.com
 www.powr.io
+www.stack-sonar.com
 www.summerhamster.com
 www.tapresearch.com
 www.tribdss.com
