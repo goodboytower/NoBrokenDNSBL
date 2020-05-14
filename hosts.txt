@@ -130,9 +130,11 @@ ads.pro-market.net
 ads.rubiconproject.com
 ads.samsungads.com
 ads.trafficjunky.net
+ads.yahoo.com
 ads.yap.yahoo.com
 ads.yieldmo.com
 ads-e-darwin.hulustream.com
+adserver.adtechus.com
 adserver-us.adtech.advertising.com
 adservice.google.ca
 adservice.google.com
@@ -141,6 +143,7 @@ adsrvr.org
 ae.nflximg.net
 agility.cnn.com
 ak.sail-horizon.com
+aka-cdn.adtechus.com
 alb.reddit.com
 als-svc.nytimes.com
 amazoncustomerservice.d2.sc.omtrdc.net
@@ -229,6 +232,7 @@ beacon.wikia-services.com
 beacon01.alma.exlibrisgroup.com
 beacons.extremereach.io
 beacons5.gvt3.com
+beap.gemini.yahoo.com
 b-graph.facebook.com
 bh.contextweb.com
 bid.contextweb.com
@@ -387,6 +391,7 @@ cpu.samsungelectronics.com
 crosspromo.voodoo.io
 crumbs.robinhood.com
 crwdcntrl.net
+csc.beap.bc.yahoo.com
 cse.google.com
 csi.gstatic.com
 cstat.apple.com
@@ -460,6 +465,7 @@ experience.tinypass.com
 fast.a.klaviyo.com
 fast.wistia.com
 fbwat.ch
+fc.yahoo.com
 fg8dgt.com
 firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
@@ -540,6 +546,8 @@ ieonline.microsoft.com
 image.nametests.com
 image.prntscr.com
 image.useinsider.com
+image6.pubmatic.com
+image8.pubmatic.com
 images.outbrain.com
 imasdk.googleapis.com
 img.blogblog.com
@@ -648,7 +656,9 @@ mps.nbcuni.com
 ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
+my.hellobar.com
 native.sharethrough.com
+nativesdks.mparticle.com
 nav.sciencedirect.com
 nbcudisplay.s.moatpixel.com
 nbcume.sc.omtrdc.net
@@ -810,6 +820,7 @@ rs.gwallet.com
 rt.analytics.anvato.net
 rt.applovin.com
 rt.applvn.com
+rtbcdn.doubleverify.com
 rtd-tm.everesttech.net
 rtk.io
 rubick.gameanalytics.com
@@ -884,6 +895,7 @@ serve2.cheqzone.com
 servedby.flashtalking.com
 service.cmp.oath.com
 service.fyber.com
+service.idsync.analytics.yahoo.com
 services.fandom.com
 services.gfe.nvidia.com
 services.vlitag.com
@@ -956,6 +968,7 @@ stats.defense.gov
 stats.g.doubleclick.net
 stats.kaltura.com
 stats.wp.com
+statsf-tm.everesttech.net
 storage.googleapis.com
 summerhamster.com
 supportmetrics.apple.com
@@ -982,6 +995,7 @@ tag.getdrip.com
 tag.mtrcs.samba.tv
 tag.researchnow.com
 tag.simpli.fi
+tag.sp.advertising.com
 tag.yieldoptimizer.com
 tagan.adlightning.com
 tagger.ope.scmp.com
@@ -1006,6 +1020,7 @@ tlx.lift.com
 tpc.googlesyndication.com
 tps.doubleverify.com
 tps30.doubleverify.com
+tr.outbrain.com
 tr.snapchat.com
 track.adthrive.com
 track.tenjin.io
@@ -1035,6 +1050,7 @@ urs.cnet.com
 us.adserver.yahoo.com
 us.creativecdn.com
 us.tags.newscgp.com
+us.y.atwola.com
 usage.trackjs.com
 usbank.sc.omtrdc.net
 usbank.tt.omtrdc.net
