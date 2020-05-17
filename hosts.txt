@@ -91,6 +91,7 @@ a.klaviyo.com
 a.nytimes.com
 a.opmnstr.com
 a.postrelease.com
+a.pub.network
 a.quora.com
 a.teads.tv
 a.tribalfusion.com
@@ -188,6 +189,7 @@ api.traq.li
 api.viglink.com
 api.whatsapp.com
 api2.branch.io
+api-cf.affirm.com
 api-gdpr.voodoo-tech.io
 apigw.scmp.com
 api-iam.intercom.io
@@ -268,6 +270,7 @@ capture.condenastdigital.com
 capture.trackjs.com
 carbon-cdn.ccgateway.net
 ccpa.sp-prod.net
+cd.connatix.com
 cdm.cursecdn.com
 cdn.adsafeprotected.com
 cdn.amplitude.com
@@ -437,6 +440,7 @@ e.crashlytics.com
 e309da9b9aaf.cdn4.forter.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 eb.trbas.com
+ecdn.firstimpression.io
 ecommerce.iap.unity3d.com
 edba.brealtime.com
 edge.simplereach.com
@@ -835,6 +839,7 @@ s.btstatic.com
 s.go-mpulse.net
 s.innovid.com
 s.ipstatp.com
+s.logsss.com
 s.ntv.io
 s.pixsrvcs.com
 s.po.st
@@ -850,6 +855,7 @@ s1.wp.com
 s100.copyright.com
 s2s.adjust.com
 s7.addthis.com
+s9.addthis.com
 saa.cbsi.com
 sadmin.brightcove.com
 sak.userreport.com
@@ -939,6 +945,7 @@ sslwidget.criteo.com
 ssor.tribdss.com
 s-static.innovid.com
 sstats.adobe.com
+ssum.casalemedia.com
 ssum-sec.casalemedia.com
 stags.bluekai.com
 stat.flashtalking.com
@@ -950,6 +957,7 @@ static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
 static.exosrv.com
+static.getclicky.com
 static.hotjar.com
 static.iterable.com
 static.klaviyo.com
@@ -982,11 +990,13 @@ sync.serverbid.com
 sync.teads.tv
 sync-tm.everesttech.net
 syndication.twitter.com
+system.picreel.com
 t.appsflyer.com
 t.co
 t.indeed.com
 t.mookie1.com
 t.myvisualiq.net
+t.sharethis.com
 t.teads.tv
 tag.bounceexchange.com
 tag.crsspxl.com
@@ -1100,6 +1110,7 @@ www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
 www.honcode.ch
+www.mainadv.com
 www.modulepush.com
 www.npttech.com
 www.powr.io
@@ -1107,6 +1118,8 @@ www.stack-sonar.com
 www.summerhamster.com
 www.tapresearch.com
 www.tribdss.com
+www.upsellit.com
+www.zergnet.com
 w-x.co
 x2.mookie1.com
 xg4ken.com
