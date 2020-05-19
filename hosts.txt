@@ -478,8 +478,10 @@ experience.tinypass.com
 fast.a.klaviyo.com
 fast.wistia.com
 fbwat.ch
+.fios.verizon.net
 fc.yahoo.com
 fg8dgt.com
+fios.verizon.net
 firebasedynamiclinks-ipv.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
