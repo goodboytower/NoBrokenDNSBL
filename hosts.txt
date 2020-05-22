@@ -874,6 +874,7 @@ s9.addthis.com
 saa.cbsi.com
 sadmin.brightcove.com
 sak.userreport.com
+samsungads.com
 samsungcloud.com
 samsungcloudsolution.net
 samsungelectronics.com
