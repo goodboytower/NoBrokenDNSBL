@@ -148,6 +148,7 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads.yieldmo.com
 ads2.servebom.com
+ads30.adcolony.com
 ads-e-darwin.hulustream.com
 adserver.adtechus.com
 adserver-us.adtech.advertising.com
@@ -184,6 +185,7 @@ api.altmetric.com
 api.amplitude.com
 api.apptentive.com
 api.b2c.com
+api.bazaarvoice.com
 api.bounceexchange.com
 api.branch.io
 api.condenast.io
@@ -331,6 +333,7 @@ cdn.permutive.com
 cdn.petametrics.com
 cdn.p-n.io
 cdn.pricespider.com
+cdn.pushcrew.com
 cdn.pushowl.com
 cdn.ravenjs.com
 cdn.rawgit.com
@@ -414,6 +417,7 @@ cpu.samsungelectronics.com
 crosspromo.voodoo.io
 crumbs.robinhood.com
 crwdcntrl.net
+cs.atdmt.com
 csc.beap.bc.yahoo.com
 cse.google.com
 csi.gstatic.com
@@ -605,11 +609,14 @@ invitation.samsungiotcloud.com
 ipapi.co
 iphonesubmissions.apple.com
 ir.surveywall-api.survata.com
+jadserve.postrelease.com
 jogger.zdbb.net
 js.adsrvr.org
 js.agkn.com
 js.appboycdn.com
 js.datadome.co
+js.gleam.io
+js.gumgum.com
 js.honeybadger.io
 js.hsforms.net
 js.hs-scripts.com
@@ -641,6 +648,7 @@ location.api.useinsider.com
 log.api.useinsider.com
 log.outbrain.com
 log.pinterest.com
+log.quora.com
 log-config.samsungacr.com
 logfiles.zoom.us
 logger.adthrive.com
@@ -648,6 +656,7 @@ log-ingestion.samsungacr.com
 logx.optimizely.com
 lookaside.facebook.com
 lptag.liveperson.net
+ls.apple.com
 luckyday.app.link
 m.addthis.com
 m.addthisedge.com
@@ -739,6 +748,7 @@ pagead2.googlesyndication.com
 page-events-ustats.udemy.com
 partner.googleadservices.com
 peoplegraph.firstpartyapps.oaspapps.com
+pfsense.pfsensedomain
 phonograph.voxmedia.com
 phonograph2.voxmedia.com
 pi.ispot.tv
@@ -920,6 +930,7 @@ scripts.webcontentassessor.com
 scripttags.justuno.com
 sc-static.net
 sdc.cnn.com
+sdk.hockeyapp.net
 sdk.iad-03.braze.com
 sdk-config.fyber.com
 sdks.shopifycdn.com
@@ -979,6 +990,7 @@ smetrics.washingtonpost.com
 snap.licdn.com
 snippets.cdn.mozilla.net
 socialize.us1.gigya.com
+sofa.bankofamerica.com
 sofia.trustx.org
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
@@ -1156,6 +1168,7 @@ vs-api.voodoo-tech.io
 w.usabilla.com
 waplove.cn
 warmquiver.com
+wd.adcolony.com
 web.hb.ad.cpe.dotomi.com
 web-analytics.smile.io
 widget.perfectmarket.com
@@ -1164,6 +1177,7 @@ widget.uservoice.com
 widgets.outbrain.com
 widgets.tree.com
 wiley.grapeshot.co.uk
+ws.sharethis.com
 ws.tapjoyads.com
 www.civicscience.com
 www.doubleclickbygoogle.com
