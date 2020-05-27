@@ -224,6 +224,7 @@ apps.samsungcloudcdn.com
 appsitemsuggest-pa.googleapis.com
 aps.hearstnp.com
 apu.samsungelectronics.com
+apx.moatads.com
 arc.msn.com
 as.casalemedia.com
 assets.adobedtm.com
@@ -307,6 +308,7 @@ cdn.cityspark.com
 cdn.concert.io
 cdn.connatix.com
 cdn.cookielaw.org
+cdn.cxense.com
 cdn.decibelinsight.net
 cdn.digitru.st
 cdn.districtm.ca
@@ -362,6 +364,7 @@ cdn-akamai.mookie1.com
 cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
 cdn-magiclinks.trackonomics.net
+cdn-pci.optimizely.com
 cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
@@ -382,6 +385,7 @@ clickserv.basis.net
 clickserve.dartsearch.net
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
+cloudapi.imrworldwide.com
 cloudfront.loggly.com
 cm.g.doubleclick.net
 cms.analytics.yahoo.com
@@ -425,6 +429,7 @@ cstat.apple.com
 cti.w55c.net
 cws-hulu.conviva.com
 cx.atdmt.com
+d.adroll.com
 d.agkn.com
 d.applovin.com
 d.applvn.com
@@ -467,6 +472,7 @@ eb.trbas.com
 ecdn.firstimpression.io
 ecommerce.iap.unity3d.com
 edba.brealtime.com
+edge.quantserve.com
 edge.simplereach.com
 edge1.certona.net
 edgecast-vod.yahoo.net
@@ -480,6 +486,7 @@ entitlements.jwplayer.com
 et.nytimes.com
 etahub.com
 eurogamer-uk.eurogamer.net
+eu-u.openx.net
 event.api.drift.com
 events.appsflyer.com
 events.attentivemobile.com
@@ -542,6 +549,7 @@ gpm.samsungqbe.com
 grid.bidswitch.net
 grid-cdn.pdc.bidswitch.net
 growth-pa.googleapis.com
+gscounters.us1.gigya.com
 guce.huffpost.com
 gum.criteo.com
 gurgle.zdbb.net
@@ -675,6 +683,7 @@ match.adsrvr.org
 mb.moatads.com
 mc.yandex.ru
 mcafee12.tt.omtrdc.net
+media.complex.com
 media.trafficjunky.com
 media.trafficjunky.net
 media-akam.licdn.com
@@ -737,6 +746,7 @@ osb-ussvc.samsungqbe.com
 otnprd10.samsungcloudsolution.net
 otnprd9.samsungcloudsolution.net
 p.adsymptotic.com
+p.cpx.to
 p.ctpost.com
 p.imgur.com
 p.placed.com
@@ -748,6 +758,7 @@ pagead2.googlesyndication.com
 page-events-ustats.udemy.com
 partner.googleadservices.com
 peoplegraph.firstpartyapps.oaspapps.com
+perr.h-cdn.com
 pfsense.pfsensedomain
 phonograph.voxmedia.com
 phonograph2.voxmedia.com
@@ -762,6 +773,7 @@ pixel.advertising.com
 pixel.app.returnpath.net
 pixel.condenastdigital.com
 pixel.everesttech.net
+pixel.keywee.co
 pixel.mathtag.com
 pixel.moatads.com
 pixel.mtrcs.samba.tv
@@ -1018,6 +1030,7 @@ stat.flashtalking.com
 static.ada.support
 static.addtoany.com
 static.adsafeprotected.com
+static.apester.com
 static.bytedance.com
 static.chartbeat.com
 static.cloud.coveo.com
@@ -1158,6 +1171,7 @@ video.adsafeprotected.com
 video.unrulymedia.com
 video-api.mco.arcpublishing.com
 video-api.yql.yahoo.com
+vidstat.taboola.com
 vidtech.cbsinteractive.com
 view.adjust.com
 vindicosuite.com
@@ -1179,6 +1193,7 @@ widgets.tree.com
 wiley.grapeshot.co.uk
 ws.sharethis.com
 ws.tapjoyads.com
+www.anrdoezrs.net
 www.civicscience.com
 www.doubleclickbygoogle.com
 www.dwin1.com
