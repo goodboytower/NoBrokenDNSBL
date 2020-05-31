@@ -80,6 +80,7 @@ mem.gfx.ms
 .liveperson.net
 100007920.collect.igodigital.com
 1cdn.memo.co
+2.android.pool.ntp.org
 2906542.fls.doubleclick.net
 2o7.net
 3p.ampproject.net
@@ -181,6 +182,8 @@ analytics.pinterest.com
 analytics.robinhood.com
 analytics.tdameritrade.com
 analyticsdcs.ccs.mcafee.com
+andr.ec.api.amazonvideo.com
+andr-785f3ec7eb-cbc62794911ff31b-6275da66d5254dff56-2700486.na.api.amazonvideo.com
 apex.go.sonobi.com
 api.altmetric.com
 api.amazonalexa.com
@@ -455,6 +458,7 @@ delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
 dev.visualwebsiteoptimizer.com
+device-artifacts-v2.s3.amazonaws.com
 device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 di.rlcdn.com
@@ -470,6 +474,7 @@ dntcl.qualaroo.com
 doubleclick.net
 dp2.33across.com
 dpu.samsungelectronics.com
+drive.amazonaws.com
 ds-aksb-a.akamaihd.net
 dt.adsafeprotected.com
 dts.innovid.com
@@ -605,6 +610,7 @@ image.useinsider.com
 image6.pubmatic.com
 image8.pubmatic.com
 images.outbrain.com
+images-na.ssl-images-amazon.com
 imasdk.googleapis.com
 img.blogblog.com
 img.en.com
@@ -683,6 +689,7 @@ luckyday.app.link
 m.addthis.com
 m.addthisedge.com
 m.dlx.addthis.com
+m.media-amazon.com
 m.nsimg.net
 m.stripe.network
 m1.nsimg.net
