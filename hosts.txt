@@ -125,6 +125,7 @@ ad.lkqd.net
 ad.turn.com
 adblockplus.org
 adc3-launch.adcolony.com
+adc-ad-assets.adtilt.com
 addelivery-engine-api.voodoo-ads.io
 ade.googlesyndication.com
 adj.st
@@ -182,6 +183,7 @@ analytics.tdameritrade.com
 analyticsdcs.ccs.mcafee.com
 apex.go.sonobi.com
 api.altmetric.com
+api.amazonalexa.com
 api.amplitude.com
 api.apptentive.com
 api.b2c.com
@@ -226,6 +228,7 @@ aps.hearstnp.com
 apu.samsungelectronics.com
 apx.moatads.com
 arc.msn.com
+arcus-uswest.amazon.com
 as.casalemedia.com
 assets.adobedtm.com
 assets.revcontent.com
@@ -238,6 +241,7 @@ aswpsdkus.com
 at.atwola.com
 at.cbsi.com
 audio-ak-spotify-com.akamaized.net
+avs-alexa-na.amazon.com
 az416426.vo.msecnd.net
 az725175.vo.msecnd.net
 b.config.skype.com
@@ -279,6 +283,7 @@ c.aaxads.com
 c.betrad.com
 c.evidon.com
 c.go-mpulse.net
+c.jsrdn.com
 c.live.com
 c.oracleinfinity.io
 c.prod.theintercept.com
@@ -315,6 +320,7 @@ cdn.districtm.ca
 cdn.districtm.io
 cdn.doubleverify.com
 cdn.evergage.com
+cdn.exelator.com
 cdn.heapanalytics.com
 cdn.iubenda.com
 cdn.jsdelivr.net
@@ -356,6 +362,7 @@ cdn.ziffstatic.com
 cdn0.forter.com
 cdn11.contentabc.com
 cdn2.inner-active.mobi
+cdn2.teads.tv
 cdn3.forter.com
 cdn3.optimizely.com
 cdn5.userzoom.com
@@ -436,6 +443,7 @@ d.applvn.com
 d.flashtalking.com 
 d.impactradius-event.com
 d.turn.com
+d3p8zr0ffa9t17.cloudfront.net
 d9.flashtalking.com
 dap.digitalgov.gov
 data.adxcel-ec.com
@@ -447,6 +455,7 @@ delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
 dev.visualwebsiteoptimizer.com
+device-metrics-us.amazon.com
 device-provisioning.googleapis.com
 di.rlcdn.com
 diffuser-cdn.app-us1.com
@@ -500,6 +509,7 @@ events-collector.spot.im
 ews.netgate.com
 experience.tinypass.com
 fast.a.klaviyo.com
+fast.forbes.com
 fast.wistia.com
 fbwat.ch
 fc.yahoo.com
@@ -510,6 +520,7 @@ firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaselogging.googleapis.com
 fls.doubleclick.net
+fls-na.amazon.com
 fonts.gstatic.com
 forms.gle
 fp.msedge.net
@@ -539,6 +550,7 @@ glassmoni.researchgate.net
 glitter.services.disqus.com
 global.ib-ibi.com
 global.proper.io
+go.pardot.com
 goo.gl
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
@@ -628,12 +640,14 @@ js.gumgum.com
 js.honeybadger.io
 js.hsforms.net
 js.hs-scripts.com
+js.matheranalytics.com
 js.sentry-cdn.com
 jsc.idealmedia.com
 jsc.mgid.com
 jssdkcdns.mparticle.com
 jwplayer.com
 jwpltx.com
+kindle-time.amazon.com
 kinja.com
 kpu.samsungelectronics.com
 krk.kargo.com
@@ -715,6 +729,7 @@ native.sharethrough.com
 nativesdks.mparticle.com
 nav.sciencedirect.com
 nbcudisplay.s.moatpixel.com
+nbcume.hb.omtrdc.net
 nbcume.sc.omtrdc.net
 nebula-cdn.kampyle.com
 news.iadsdk.apple.com
@@ -728,6 +743,7 @@ notify.bugsnag.com
 npttech.com
 ns.zdbb.net
 nsimg.net
+ntp-g7g.amazon.com
 o.ss2.us
 ocsp.sca1b.amazontrust.com
 ocsp.scab.amazontrust.com
@@ -833,6 +849,7 @@ query.fqtag.com
 quicksilver.scdn.co
 r.6abc.com
 r.skimresources.com
+r.teads.tv
 r1---sn-a5mekner.googlevideo.com
 r1---sn-ab5szn7y.googlevideo.com
 r1---sn-ab5sznlk.googlevideo.com
@@ -1006,6 +1023,7 @@ sofa.bankofamerica.com
 sofia.trustx.org
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
+spectrum.s3.amazonaws.com
 splash-screen.voodoo-ads.io
 sponge.creditkarma.com
 sqs.us-east-1.amazonaws.com
@@ -1134,12 +1152,15 @@ trkn.us
 tru.am
 try.abtasty.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+tvx.adgrx.com
 u.heatmap.it
+uaid-linkage.imrworldwide.com
 uberm.bttn.io
 ubm.tt.omtrdc.net
 udc.yahoo.com
 ugdturner.com
 ulink.adjust.com
+unagi-na.amazon.com
 unsplash.com
 upsells.boldapps.net
 upu.samsungelectronics.com
@@ -1179,6 +1200,7 @@ vjs.zencdn.net
 vo.msecnd.net
 vox.amp.permutive.com
 vs-api.voodoo-tech.io
+vsp-alexa-eu.amazon.com
 w.usabilla.com
 waplove.cn
 warmquiver.com
