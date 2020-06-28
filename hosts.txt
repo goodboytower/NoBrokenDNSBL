@@ -121,11 +121,13 @@ mem.gfx.ms
 .usnecurs
 100007920.collect.igodigital.com
 10870841.collect.igodigital.com
+10948010.collect.igodigital.com
 1cdn.memo.co
 2.android.pool.ntp.org
 2906542.fls.doubleclick.net
 2o7.net
 3p.ampproject.net
+4448269.fls.doubleclick.net
 4495.adj.st
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
 7209228.collect.igodigital.com
@@ -138,6 +140,7 @@ a.exosrv.com
 a.klaviyo.com
 a.mailmunch.co
 a.nytimes.com
+a.omappapi.com
 a.opmnstr.com
 a.postrelease.com
 a.pub.network
@@ -204,6 +207,7 @@ adservice.google.de
 adsrvr.org
 ads-servebom-com.cdn.ampproject.org
 ae.nflximg.net
+afs.googleusercontent.com
 agility.cnn.com
 aimgayolues.com
 ak.sail-horizon.com
@@ -305,6 +309,7 @@ aswpsdkus.com
 at.atwola.com
 at.cbsi.com
 atoms.gannettdigital.com
+ats.everesttech.net
 au.tags.newscgp.com
 audio-ak-spotify-com.akamaized.net
 avs-alexa-na.amazon.com
@@ -348,6 +353,7 @@ buff.ly
 by.uservoice.com
 c.aaxads.com
 c.betrad.com
+c.contentsquare.net
 c.evidon.com
 c.go-mpulse.net
 c.jsrdn.com
@@ -356,6 +362,7 @@ c.oracleinfinity.io
 c.prod.theintercept.com
 c.sharethis.mgr.consensu.org
 c.statcounter.com
+c.tvpixel.com
 c1.adform.net
 c2.taboola.com
 ca.iadsdk.apple.com
@@ -363,6 +370,7 @@ cafemedia-d.openx.net
 capture.condenastdigital.com
 capture.trackjs.com
 carbon-cdn.ccgateway.net
+cb-p.alcmpn.com
 ccpa.sp-prod.net
 cd.connatix.com
 cdm.cursecdn.com
@@ -454,6 +462,7 @@ cdn-api.arcpublishing.com
 cdn-gl.imrworldwide.com
 cdn-magiclinks.trackonomics.net
 cdn-pci.optimizely.com
+cdns.eu1.gigya.com
 cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
@@ -550,6 +559,7 @@ de.tynt.com
 delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
+dev.virtualearth.net
 dev.visualwebsiteoptimizer.com
 device-artifacts-v2.s3.amazonaws.com
 device-metrics-us.amazon.com
@@ -576,6 +586,7 @@ ds-aksb-a.akamaihd.net
 dt.adsafeprotected.com
 dts.innovid.com
 dw.cbsi.com
+dynamic.criteo.com
 e.crashlytics.com
 e309da9b9aaf.cdn4.forter.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
@@ -583,6 +594,7 @@ eb.trbas.com
 ecdn.firstimpression.io
 ecommerce.iap.unity3d.com
 edba.brealtime.com
+edge.fullstory.com
 edge.quantserve.com
 edge.simplereach.com
 edge1.certona.net
@@ -654,6 +666,7 @@ geo.yahoo.com
 geo2.adobe.com
 geoip-db.com
 geolocation.onetrust.com
+geolocation-db.com
 geo-tracker.smadex.com
 getpocket.com
 glassmoni.researchgate.net
@@ -669,6 +682,7 @@ googleadservices.com
 googletagservices.com
 googlevideo.com
 gpm.samsungqbe.com
+graph.bustle.com
 grid.bidswitch.net
 grid-cdn.pdc.bidswitch.net
 growth-pa.googleapis.com
@@ -861,6 +875,7 @@ mormont.gamer-network.net
 mpp.vindicosuite.com
 mps.nbcuni.com
 mpsnare.iesnare.com
+mrb.upapi.net
 ms.applovin.com
 ms.applvn.com
 munchkin.marketo.net
@@ -1023,6 +1038,7 @@ r2---sn-p5qlsndk.googlevideo.com
 r3---sn-25glene7.googlevideo.com
 r3---sn-25glenez.googlevideo.com
 r3---sn-4g5ednse.googlevideo.com
+r3---sn-ab5l6nzl.googlevideo.com
 r3---sn-ab5szn7z.googlevideo.com
 r3---sn-nx5s7n7s.googlevideo.com
 r4---sn-25glen7l.googlevideo.com
@@ -1110,6 +1126,7 @@ s-a.innovid.com
 saa.cbsi.com
 sadmin.brightcove.com
 sak.userreport.com
+salesiq.zoho.com
 samsung.net/ads
 samsungads.com
 samsungcloud.com
@@ -1129,6 +1146,7 @@ scout-cdn.salesloft.com
 scribe.logs.roku.com
 script.crazyegg.com
 script.hotjar.com
+scripts.mediavine.com
 scripts.webcontentassessor.com
 scripttags.justuno.com
 sc-static.net
@@ -1189,6 +1207,7 @@ sirius.mwbsys.com
 siteimproveanalytics.com
 siteintercept.qualtrics.com
 smartlock.google.com
+smetrics.bestbuy.com
 smetrics.elsevier.com
 smetrics.fedex.com
 smetrics.foxnews.com
@@ -1215,6 +1234,7 @@ sponge.creditkarma.com
 spotops.spot.im
 sqs.us-east-1.amazonaws.com
 squirrelhands.com
+sr.rlcdn.com
 srepdata.thetowntalk.com
 srtb.msn.com
 srv.pixel.parsely.com
@@ -1258,6 +1278,7 @@ static.vilynx.com
 static.wikia.nocookie.net
 static.yieldmo.com
 static.ziffdavis.com
+statics-marketingsites-wcus-ms-com.akamaized.net
 staticw2.yotpo.com
 stats.berkman.harvard.edu
 stats.bluebillywig.com
@@ -1365,6 +1386,7 @@ ubm.tt.omtrdc.net
 udc.yahoo.com
 ufirst.abcnews.go.com
 ugdturner.com
+uid.mavencoalition.io
 ulink.adjust.com
 unagi-na.amazon.com
 unsplash.com
@@ -1441,6 +1463,7 @@ www.everestjs.net
 www.fastly-insights.com
 www.googleadservices.com
 www.googletagservices.com
+www.hlserve.com
 www.honcode.ch
 www.lightboxcdn.com
 www.mainadv.com
