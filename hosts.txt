@@ -129,6 +129,7 @@ mem.gfx.ms
 3p.ampproject.net
 4448269.fls.doubleclick.net
 4495.adj.st
+6301032.fls.doubleclick.net
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
 7209228.collect.igodigital.com
 79423.analytics.edgekey.net
@@ -248,6 +249,7 @@ analytics-static.ugc.bazaarvoice.com
 andr.ec.api.amazonvideo.com
 andr-785f3ec7eb-cbc62794911ff31b-6275da66d5254dff56-2700486.na.api.amazonvideo.com
 apex.go.sonobi.com
+api.airbrake.io
 api.altmetric.com
 api.amazonalexa.com
 api.amplitude.com
@@ -258,7 +260,9 @@ api.bounceexchange.com
 api.branch.io
 api.condenast.io
 api.cortana.ai
+api.flyertown.ca
 api.gameanalytics.com
+api.ipdata.co
 api.ipify.org
 api.kinja.com
 api.limbik.com
@@ -442,6 +446,7 @@ cdn.revcontent.com
 cdn.samsungcloudsolution.com
 cdn.scarabresearch.com
 cdn.shareaholic.net
+cdn.siftscience.com
 cdn.speedcurve.com
 cdn.springserve.com
 cdn.subscribers.com
@@ -541,6 +546,8 @@ countess.twitch.tv
 count-server.sharethis.com
 cp.ebbp.pro
 cpu.samsungelectronics.com
+create.leadid.com
+create.lidstatic.com
 cronvass.edvfwlacluo.com
 crosspromo.voodoo.io
 crumbs.robinhood.com
@@ -660,6 +667,7 @@ firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
 firebase-settings.crashlytics.com
 fls.doubleclick.net
 fls-na.amazon.com
@@ -698,6 +706,8 @@ glitter.services.disqus.com
 global.ib-ibi.com
 global.proper.io
 go.pardot.com
+go.redirectingat.com
+go.trouter.skype.com
 goo.gl
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
@@ -779,6 +789,7 @@ in.treasuredata.com
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
+info.leadid.com
 info2t.com
 informit.com
 ing-district.clicktale.net
@@ -837,6 +848,7 @@ loader-cdn.azureedge.net
 loadm.exelator.com
 loadus.exelator.com
 location.api.useinsider.com
+location.teslamotors.com
 log.api.useinsider.com
 log.outbrain.com
 log.pinterest.com
@@ -996,6 +1008,7 @@ pixel.mathtag.com
 pixel.moatads.com
 pixel.mtrcs.samba.tv
 pixel.quantserve.com
+pixel.sitescout.com
 pixel.tapad.com
 pixel.watch
 pixel.wp.com
@@ -1028,6 +1041,7 @@ privacy-policy.truste.com
 privymktg.com
 pro.ip-api.com
 prod.adspsp.com
+prod.amazoncrl.com
 prod.cdn.powerbi.com
 prod-a.applovin.com
 production-cmp.isgprivacy.cbsi.com
@@ -1077,10 +1091,13 @@ r2---sn-p5qlsndk.googlevideo.com
 r3---sn-25glene7.googlevideo.com
 r3---sn-25glenez.googlevideo.com
 r3---sn-4g5ednse.googlevideo.com
+r3---sn-5hnednlr.googlevideo.com
 r3---sn-ab5l6nzl.googlevideo.com
 r3---sn-ab5szn7z.googlevideo.com
+r3---sn-aigzrn76.googlevideo.com
 r3---sn-nx5s7n7s.googlevideo.com
 r4---sn-25glen7l.googlevideo.com
+r4---sn-25glen7r.googlevideo.com
 r4---sn-a5mekn7r.googlevideo.com
 r4---sn-ab5l6nzd.googlevideo.com
 r4---sn-nx57ynls.googlevideo.com
@@ -1124,6 +1141,7 @@ rl.quantummetric.com
 rpc.tapjoy.com
 rpc-php.trafficfactory.biz
 rs.gwallet.com
+rs6.scribd.com
 rs7.scribd.com
 rt.analytics.anvato.net
 rt.applovin.com
@@ -1197,6 +1215,7 @@ sdk.hockeyapp.net
 sdk.iad-03.braze.com
 sdk.jeeng.com
 sdk.privacy-center.org
+sdk.sharethrough.com
 sdk-config.fyber.com
 sdks.shopifycdn.com
 se.monetate.net
@@ -1281,6 +1300,7 @@ sqs.us-east-1.amazonaws.com
 squirrelhands.com
 sr.rlcdn.com
 srepdata.thetowntalk.com
+srepdata.usatoday.com
 srtb.msn.com
 srv.pixel.parsely.com
 ss.adjust.com
@@ -1306,6 +1326,7 @@ static.adsafeprotected.com
 static.apester.com
 static.bytedance.com
 static.chartbeat.com
+static.clicktripz.com
 static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.net
@@ -1365,6 +1386,7 @@ tag.bounceexchange.com
 tag.crsspxl.com
 tag.demandbase.com
 tag.getdrip.com
+tag.idsync.analytics.yahoo.com
 tag.mtrcs.samba.tv
 tag.researchnow.com
 tag.simpli.fi
@@ -1449,6 +1471,7 @@ us.creativecdn.com
 us.tags.newscgp.com
 us.y.atwola.com
 usage.trackjs.com
+usbank.az1.qualtrics.com
 usbank.sc.omtrdc.net
 usbank.tt.omtrdc.net
 usbank-app.quantummetric.com
@@ -1518,6 +1541,7 @@ www.googletagservices.com
 www.hlserve.com
 www.honcode.ch
 www.lightboxcdn.com
+www.lmtonline.com
 www.mainadv.com
 www.mediashower.com
 www.modulepush.com
