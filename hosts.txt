@@ -133,6 +133,7 @@ mem.gfx.ms
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
 7209228.collect.igodigital.com
 79423.analytics.edgekey.net
+9218006.fls.doubleclick.net
 a.ad.gt
 a.applovin.com
 a.applvn.com
@@ -221,6 +222,7 @@ aka-cdn.adtechus.com
 alb.reddit.com
 als-svc.nytimes.com
 amazoncustomerservice.d2.sc.omtrdc.net
+americaneagleoutfitt.tt.omtrdc.net
 amp.akamaized.net
 amp.casalemedia.com
 amp.spot.im
@@ -230,6 +232,7 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 amprtc.media.net
 an.facebook.com
+analytics.ae.com
 analytics.businessinsider.com
 analytics.ccs.mcafee.com
 analytics.chase.com
@@ -333,6 +336,7 @@ b.scorecardresearch.com
 b.videoamp.com
 banner.advertising.com
 bats.video.yahoo.com
+bc984e4a2a54429abc35a327404dd586.js.ubembed.com
 b-code.liadm.com
 bcp.crwdcntrl.net
 bdg-analytics.appspot.com
@@ -363,6 +367,7 @@ bs.serving-sys.com
 bttn.io
 bttrack.com
 buff.ly
+builder-assets.unbounce.com
 by.uservoice.com
 c.aaxads.com
 c.betrad.com
@@ -404,6 +409,7 @@ cdn.ccgateway.net
 cdn.cityspark.com
 cdn.concert.io
 cdn.connatix.com
+cdn.conversant.mgr.consensu.org
 cdn.cookielaw.org
 cdn.cquotient.com
 cdn.cxense.com
@@ -414,6 +420,7 @@ cdn.districtm.io
 cdn.doubleverify.com
 cdn.evergage.com
 cdn.exelator.com
+cdn.glassboxcdn.com
 cdn.heapanalytics.com
 cdn.iubenda.com
 cdn.jsdelivr.net
@@ -480,6 +487,7 @@ cdn-magiclinks.trackonomics.net
 cdn-media.brightline.tv
 cdn-pci.optimizely.com
 cdns.eu1.gigya.com
+cdns2.gigya.com
 cdn-settings.segment.com
 cdn-ssl.vidible.tv
 cdntrf.com
@@ -580,6 +588,7 @@ data.adxcel-ec2.com
 data.cnn.com
 data.flurry.com
 data.logentries.com
+data.photorank.me
 datacloud.tealiumiq.com
 dc.ads.linkedin.com
 de.nametests.com
@@ -587,6 +596,7 @@ de.tynt.com
 delivery.vidible.tv
 delta.celebrus.com
 deltaairlines.tt.omtrdc.net
+dennis-co-uk.videoplayerhub.com
 dev.virtualearth.net
 dev.visualwebsiteoptimizer.com
 device-artifacts-v2.s3.amazonaws.com
@@ -619,6 +629,7 @@ e.crashlytics.com
 e309da9b9aaf.cdn4.forter.com
 e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 eb.trbas.com
+ecdn.analysis.fi
 ecdn.firstimpression.io
 ecommerce.iap.unity3d.com
 edba.brealtime.com
@@ -658,6 +669,7 @@ fast.forbes.com
 fast.wistia.com
 fbwat.ch
 fc.yahoo.com
+felix.data.tm-awx.com
 fg8dgt.com
 file.org
 files.constantcontact.com
@@ -671,6 +683,8 @@ firebaseperusertopics-pa.googleapis.com
 firebase-settings.crashlytics.com
 fls.doubleclick.net
 fls-na.amazon.com
+fo-api.omnitagjs.com
+fonts.googleapis.com
 fonts.gstatic.com
 forms.gle
 fp.msedge.net
@@ -856,6 +870,7 @@ log.quora.com
 log-config.samsungacr.com
 logfiles.zoom.us
 logger.adthrive.com
+login.dotomi.com
 log-ingestion.samsungacr.com
 logs-api.shoprunner.com
 logx.optimizely.com
@@ -872,6 +887,7 @@ m.sancdn.net
 m.stripe.network
 m1.nsimg.net
 m2.nsimg.net
+mab.data.tm-awx.com
 mads.amazon-adsystem.com
 mads.at.atwola.com
 mailfoogae.appspot.com
@@ -1025,6 +1041,7 @@ playlist.megaphone.fm
 pls.webtype.com
 polyfill.io
 powerad.ai
+pr.realvu.net
 pr.ybp.yahoo.com
 pr-bh.ybp.yahoo.com
 prd.jwpltx.com
@@ -1131,6 +1148,7 @@ recommender.scarabresearch.com
 recsys-api.buzzfeed.com
 reddit.app.link
 redirector.gvt.com
+redtube.com
 referrer.disqus.com
 remarket.clicktripz.com
 res1.applovin.com
@@ -1181,6 +1199,7 @@ s1.wp.com
 s100.copyright.com
 s2s.adjust.com
 s7.addthis.com
+s7d2.scene7.com
 s9.addthis.com
 s-a.innovid.com
 saa.cbsi.com
@@ -1231,6 +1250,7 @@ secure.opinionlab.com
 secure.quantserve.com
 secure-assets.rubiconproject.com
 secureaud.solocpm.com
+secure-cdn.mplxtms.com
 secure-ds.serving-sys.com
 secure-gg.imrworldwide.com
 secure-gl.imrworldwide.com
@@ -1360,6 +1380,7 @@ summerhamster.com
 supervisor.ext-twitch.tv
 supportmetrics.apple.com
 survey.g.doubleclick.net
+s-video.innovid.com
 sw88.go.com
 sxj8.adj.st
 sync.1rx.io
@@ -1426,6 +1447,7 @@ tps30.doubleverify.com
 tr.iadsdk.apple.com
 tr.outbrain.com
 tr.snapchat.com
+track.activemetering.com
 track.adthrive.com
 track.securedvisit.com
 track.sr.roku.com
@@ -1438,6 +1460,7 @@ trc.taboola.com
 treg.hearstnp.com
 trends.revcontent.com
 triggers.wfxtriggers.com
+trinitymirror.grapeshot.co.uk
 trk.pinterest.com
 trk.techtarget.com
 trk.tidaltv.com
@@ -1518,6 +1541,7 @@ watch.qa.roku.com
 wd.adcolony.com
 web.hb.ad.cpe.dotomi.com
 web-analytics.smile.io
+web-sdk.urbanairship.com
 widget.perfectmarket.com
 widget.sellwild.com
 widget.trustpilot.com
@@ -1526,6 +1550,7 @@ widgets.future-fie.co.uk
 widgets.outbrain.com
 widgets.tree.com
 wiley.grapeshot.co.uk
+windows.policies.live.net
 ws.sharethis.com
 ws.tapjoyads.com
 www.anrdoezrs.net
@@ -1562,6 +1587,7 @@ wzrkt.com
 x.bidswitch.net
 x2.mookie1.com
 xg4ken.com
+xnxx.com
 xp.apple.com
 xpu.samsungelectronics.com
 xw7k.adj.st
