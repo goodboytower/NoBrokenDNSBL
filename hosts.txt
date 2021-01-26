@@ -240,7 +240,7 @@ andr-785f3ec7eb-cbc62794911ff31b-6275da66d5254dff56-2700486.na.api.amazonvideo.c
 apex.go.sonobi.com
 api.airbrake.io
 api.altmetric.com
-api.amazonalexa.com
+# api.amazonalexa.com REMOVED for alexa devices
 api.amplitude.com
 api.apptentive.com
 api.b2c.com
