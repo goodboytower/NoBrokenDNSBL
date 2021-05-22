@@ -42,6 +42,7 @@ quantummetric.com
 # in.appcenter.ms whitelisted
 ###
 #gateway fe apple found in pcap from iphone
+*.to
 *.aimgayolues.com
 *.cdn-apple.com
 *.samsungcloud.com
