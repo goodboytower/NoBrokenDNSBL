@@ -120,6 +120,7 @@ quantummetric.com
 a.ad.gt
 a.applovin.com
 a.applvn.com
+a.dlqm.net
 a.et.nytimes.com
 a.exosrv.com
 a.klaviyo.com
@@ -172,6 +173,7 @@ ads.api.vungle.com
 ads.celtra.com
 ads.ehealthcaresolutions.com
 ads.exosrv.com
+ads.hulu.com
 ads.inmobi.com
 ads.mopub.com
 ads.nexage.com
@@ -190,6 +192,8 @@ ads.yap.yahoo.com
 ads.yieldmo.com
 ads2.servebom.com
 ads30.adcolony.com
+ads-a-darwin.hulu.com
+ads-bid.l.doubleclick.net
 ads-e-darwin.hulustream.com
 adserver.adtechus.com
 adserver-us.adtech.advertising.com
@@ -199,6 +203,8 @@ adservice.google.com
 adservice.google.de
 adsrvr.org
 ads-servebom-com.cdn.ampproject.org
+ads-v-darwin.hulu.com
+ads-v-darwin.hulu.com.c.footprint.net
 ae.nflximg.net
 afs.googleusercontent.com
 agility.cnn.com
@@ -208,6 +214,7 @@ aka-cdn.adtechus.com
 alb.reddit.com
 als-svc.nytimes.com
 amazoncustomerservice.d2.sc.omtrdc.net
+amch.questionmarket.com
 americaneagleoutfitt.tt.omtrdc.net
 amp.akamaized.net
 amp.casalemedia.com
@@ -308,6 +315,7 @@ as.casalemedia.com
 assets.adobedtm.com
 assets.applovin.com
 assets.huluim.com
+assets.huluim.com
 assets.revcontent.com
 assets.soom.la
 assets.ubembed.com
@@ -340,6 +348,7 @@ beacon.shazam.com
 beacon.wikia-services.com
 beacon01.alma.exlibrisgroup.com
 beacons.extremereach.io
+beacons2.extremereach.io
 beacons5.gvt3.com
 beap.gemini.yahoo.com
 b-graph.facebook.com
@@ -359,6 +368,7 @@ bpu.samsungelectronics.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browser-update.org
+bs.serving-sys.com
 bs.serving-sys.com
 bttn.io
 bttrack.com
@@ -424,6 +434,7 @@ cdn.evergage.com
 cdn.exelator.com
 cdn.glassboxcdn.com
 cdn.heapanalytics.com
+cdn.innovid.com
 cdn.iubenda.com
 cdn.jsdelivr.net
 cdn.keywee.co
@@ -570,6 +581,7 @@ contributor.google.com
 control.kochava.com
 cookie.brealtime.com
 cookie-cdn.cookiepro.com
+core.insightexpressai.com
 countess.twitch.tv
 count-server.sharethis.com
 cp.ebbp.pro
@@ -605,8 +617,10 @@ d3p8zr0ffa9t17.cloudfront.net
 d9.flashtalking.com
 da.admission.net
 dap.digitalgov.gov
+dart.l.doubleclick.net
 data.adxcel-ec.com
 data.adxcel-ec2.com
+data.agkn.com
 data.cnn.com
 data.flurry.com
 data.logentries.com
@@ -643,9 +657,11 @@ dp.shoprunner.com
 dp2.33across.com
 dpu.samsungelectronics.com
 drive.amazonaws.com
+ds.serving-sys.com
 ds-4047.kxcdn.com
 ds-aksb-a.akamaihd.net
 dt.adsafeprotected.com
+dts.innovid.com
 dts.innovid.com
 dw.cbsi.com
 dynamic.criteo.com
@@ -762,6 +778,7 @@ go.trouter.skype.com
 goo.gl
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
+googleads4.g.doubleclick.net
 googleadservices.com
 googletagservices.com
 googlevideo.com
@@ -796,6 +813,8 @@ hotjar.com
 htlbid.com
 hubble.mb-cosmos.com
 hulu.hb-api.omtrdc.net
+hulu-darwin.fms.c.footprint.net
+hulu-pubnet.telemetryaudit.com
 hw-cdn.trafficjunky.net
 hw-cdn2.adtng.com
 hw-cdn2.contentabc.com
@@ -905,6 +924,7 @@ live.adyen.com
 live.sekindo.com
 liveperson.net
 llnwd.net
+lm.serving-sys.com
 load.sumome.com
 loader.wisepops.com
 loader-cdn.azureedge.net
@@ -1053,6 +1073,8 @@ p.ads.roku.com
 p.adsymptotic.com
 p.cpx.to
 p.ctpost.com
+p.hulu.com
+p.hulu.com
 p.imgur.com
 p.placed.com
 p.pulse.toyota.com
@@ -1062,6 +1084,8 @@ p.tvpixel.com
 p.typekit.net
 p2.keywee.co
 pagead.googlesyndication.com
+pagead.l.doubleclick.net
+pagead.l.doubleclick.net
 pagead2.googlesyndication.com
 page-events-ustats.udemy.com
 partner.googleadservices.com
@@ -1255,6 +1279,7 @@ s.btstatic.com
 s.dpmsrv.com
 s.go-mpulse.net
 s.innovid.com
+s.innovid.com
 s.ipstatp.com
 s.logsss.com
 s.media-imdb.com
@@ -1295,6 +1320,7 @@ samsungqbe.com
 samsungrm.net 
 sas.samsungcloudsolution.com
 sb.monetate.net
+sb.scorecardresearch.com
 sb.scorecardresearch.com
 sb.voicefive.com
 sc61124012us1.cobrowse.oraclecloud.com
@@ -1340,6 +1366,7 @@ securemetrics.apple.com
 securemvt.apple.com
 securepubads.g.doubleclick.net
 secure-sts-prod.imrworldwide.com
+secure-us.imrworldwide.com
 secure-us.imrworldwide.com
 segment.api.useinsider.com
 segment-data.zqtk.net
@@ -1467,6 +1494,7 @@ stats.defense.gov
 stats.g.doubleclick.net
 stats.gc.apple.com
 stats.kaltura.com
+stats.l.doubleclick.net
 stats.wp.com
 statsf-tm.everesttech.net
 storage.googleapis.com
@@ -1494,11 +1522,13 @@ system.picreel.com
 t.a3cloud.net
 t.appsflyer.com
 t.co
+t.hulu.com
 t.indeed.com
 t.mookie1.com
 t.myvisualiq.net
 t.sharethis.com
 t.teads.tv
+t2.hulu.com
 tag.bounceexchange.com
 tag.crsspxl.com
 tag.demandbase.com
@@ -1520,9 +1550,11 @@ tags.news.com.au
 tags.toyota.com
 tags.w55c.net
 tapestry.tapad.com
+tapestry.tapad.com
 tealium.cbsnews.com
 telecommand.telemetry.microsoft.com
 telemetry.api.2kcoretech.online
+telemetry.huluad.com
 telemetry.malwarebytes.com
 teleport.soom.la
 tempest.services.disqus.com
@@ -1570,6 +1602,7 @@ trkn.us
 troubledtail.com
 tru.am
 try.abtasty.com
+ts.vindicosuite.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tvx.adgrx.com
 twgwqgijymdhbc16.com
@@ -1635,14 +1668,18 @@ video-api.yql.yahoo.com
 vidstat.taboola.com
 vidtech.cbsinteractive.com
 view.adjust.com
+view.atdmt.com.nsatc.net
+vindicoasset.edgesuite.net
 vindicosuite.com
 vip.adstatic.com
 visitor-service.tealiumiq.com
 vjs.zencdn.net
 vo.msecnd.net
+vortex.hulu.com
 vox.amp.permutive.com
 vs-api.voodoo-tech.io
 vsp-alexa-eu.amazon.com
+vtrk.doubleverify.com
 vz-cdn.trafficjunky.net
 vz-cdn2.contentabc.com
 w.usabilla.com
@@ -1725,7 +1762,3 @@ z-na.amazon-adsystem.com
 zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
 zpu.samsungelectronics.com
 zwyr157wwiu6eior.com
-vortex.hulu.com
-beacons2.extremereach.io
-lm.serving-sys.com
-vtrk.doubleverify.com
