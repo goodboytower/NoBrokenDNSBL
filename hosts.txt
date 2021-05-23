@@ -43,7 +43,17 @@ quantummetric.com
 ###
 # api.amazonalexa.com REMOVED for alexa devices
 #gateway fe apple found in pcap from iphone
+#amazoncustomerservice.d2.sc.omtrdc.net
+#arcus-uswest.amazon.com
+#cloudfront-labs.amazonaws.com
+#drive.amazonaws.com
+#images-na.ssl-images-amazon.com
+#m.media-amazon.com
+#ocsp.sca1b.amazontrust.com
+#ocsp.scab.amazontrust.com
+#spectrum.s3.amazonaws.com
 *.aimgayolues.com
+*.amazon-adsystem.com
 *.cdn-apple.com
 *.samsungcloud.com
 *.samsungcloudsolution.net
@@ -143,8 +153,6 @@ a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 aa.agkn.com
 aa4393f3.api.splkmobile.com
 aad.cs.dds.microsoft.com
-aax.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
 abcnews.hb.omtrdc.net
 abeagle-public.buzzfeed.com
 acr0.samsungcloudsolution.com
@@ -213,7 +221,6 @@ ak.sail-horizon.com
 aka-cdn.adtechus.com
 alb.reddit.com
 als-svc.nytimes.com
-amazoncustomerservice.d2.sc.omtrdc.net
 amch.questionmarket.com
 americaneagleoutfitt.tt.omtrdc.net
 amp.akamaized.net
@@ -310,7 +317,6 @@ aps.hearstnp.com
 apu.samsungelectronics.com
 apx.moatads.com
 arc.msn.com
-arcus-uswest.amazon.com
 as.casalemedia.com
 assets.adobedtm.com
 assets.applovin.com
@@ -537,7 +543,6 @@ clientstream.launchdarkly.com
 clk.solocpm.com
 cloudapi.imrworldwide.com
 cloudfront.loggly.com
-cloudfront-labs.amazonaws.com
 cloudservices.roku.com
 c-ls.mgo-images.com
 c-ls.mgo-images.com #may need to doublecheck this
@@ -656,7 +661,6 @@ doubleclick.net
 dp.shoprunner.com
 dp2.33across.com
 dpu.samsungelectronics.com
-drive.amazonaws.com
 ds.serving-sys.com
 ds-4047.kxcdn.com
 ds-aksb-a.akamaihd.net
@@ -847,7 +851,6 @@ image6.pubmatic.com
 image8.pubmatic.com
 images.dmca.com
 images.outbrain.com
-images-na.ssl-images-amazon.com
 imasdk.googleapis.com
 img.blogblog.com
 img.en.com
@@ -951,14 +954,12 @@ luckyday.app.link
 m.addthis.com
 m.addthisedge.com
 m.dlx.addthis.com
-m.media-amazon.com
 m.nsimg.net
 m.sancdn.net
 m.stripe.network
 m1.nsimg.net
 m2.nsimg.net
 mab.data.tm-awx.com
-mads.amazon-adsystem.com
 mads.at.atwola.com
 mailfoogae.appspot.com
 main.exosrv.com
@@ -1046,8 +1047,6 @@ o.ss2.us
 oao-js-tag.onemobile.yahoo.com
 oca.telemetry.microsoft.com
 ocsp.comodoca.com
-ocsp.sca1b.amazontrust.com
-ocsp.scab.amazontrust.com
 odb.outbrain.com
 odr.mookie1.com
 offer.fyber.com
@@ -1274,7 +1273,6 @@ rumcdn.geoedge.be
 rum-static.pingdom.net
 run.adrizer.com
 s.addthis.com
-s.amazon-adsystem.com
 s.btstatic.com
 s.dpmsrv.com
 s.go-mpulse.net
@@ -1425,7 +1423,6 @@ somni.dsw.com
 sonar-iad.xx.fbcdn.net
 sourcepoint.mgr.consensu.org
 sp.analytics.yahoo.com
-spectrum.s3.amazonaws.com
 speech.platform.bing.com
 spellsalsa.com
 spl.zeotap.com
@@ -1653,7 +1650,6 @@ v10.events.data.microsoft.com
 v2.zopim.com
 v20.events.data.microsoft.com
 va.tawk.to
-vaes.amazon-adsystem.com
 vap2ord1.lijit.com
 vars.hotjar.com
 vela.iad-01.braze.com
@@ -1758,7 +1754,6 @@ zergnet.com
 zergnet-d.openx.net
 zn_a9290jo7eb4diuz-mayoclinicsurveys.siteintercept.qualtrics.com
 zn5hsliyrlhlj7ndr-abcotv.siteintercept.qualtrics.com
-z-na.amazon-adsystem.com
 zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
 zpu.samsungelectronics.com
 zwyr157wwiu6eior.com
