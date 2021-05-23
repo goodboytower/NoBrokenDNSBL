@@ -41,8 +41,8 @@ quantummetric.com
 #list of microsoft edge telemetry
 # in.appcenter.ms whitelisted
 ###
+# api.amazonalexa.com REMOVED for alexa devices
 #gateway fe apple found in pcap from iphone
-*.to
 *.aimgayolues.com
 *.cdn-apple.com
 *.samsungcloud.com
@@ -52,6 +52,7 @@ quantummetric.com
 *.samsungosp.com
 *.samsungqbe.com
 *.supersonicads.com
+*.to
 *.tremorhub.com
 .adblockplus.org
 .bidramnit
@@ -241,7 +242,6 @@ andr-785f3ec7eb-cbc62794911ff31b-6275da66d5254dff56-2700486.na.api.amazonvideo.c
 apex.go.sonobi.com
 api.airbrake.io
 api.altmetric.com
-# api.amazonalexa.com REMOVED for alexa devices
 api.amplitude.com
 api.apptentive.com
 api.b2c.com
@@ -1725,4 +1725,7 @@ z-na.amazon-adsystem.com
 zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
 zpu.samsungelectronics.com
 zwyr157wwiu6eior.com
-
+vortex.hulu.com
+beacons2.extremereach.io
+lm.serving-sys.com
+vtrk.doubleverify.com
