@@ -64,6 +64,7 @@ quantummetric.com
 *.supersonicads.com
 *.to
 *.tremorhub.com
+*.world
 .adblockplus.org
 .bidramnit
 .biztinba
