@@ -65,6 +65,7 @@ quantummetric.com
 *.to
 *.tremorhub.com
 *.world
+*.000webhostapp.com
 .adblockplus.org
 .bidramnit
 .biztinba
