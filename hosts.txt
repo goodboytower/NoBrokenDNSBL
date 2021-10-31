@@ -308,7 +308,8 @@ app.launchdarkly.com
 app.leadsrx.com										
 app.link										
 app-ab13.marketo.com										
-app-aba.marketo.com										
+app-aba.marketo.com
+app-analytics-v2.snapchat.com
 appdeumext.tdameritrade.com										
 apple.comscoreresearch.com										
 app-measurement.com										
