@@ -63,6 +63,13 @@ quantummetric.com
 *.to
 *.tremorhub.com
 *.world
+
+plex.tv
+*.plex.tv
+plex.bz
+plex.direct
+
+
 .adblockplus.org
 .bidramnit
 .biztinba
