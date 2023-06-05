@@ -64,10 +64,13 @@ quantummetric.com
 *.tremorhub.com
 *.world
 
+# EXPERIMENTS
 plex.tv
 *.plex.tv
 plex.bz
 plex.direct
+filippo.io
+*.filippo.io
 
 
 .adblockplus.org
