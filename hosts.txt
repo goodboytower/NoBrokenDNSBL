@@ -1920,6 +1920,7 @@ xlog-va.tiktokv.com
 m.tiktok.com
 support.tiktok.com
 tiktok.com
+.tiktok.com
 v.tiktok.com
 vm.tiktok.com
 www.tiktok.com
