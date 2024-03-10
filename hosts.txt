@@ -37,6 +37,24 @@ quantummetric.com
 #list of microsoft edge telemetry
 # in.appcenter.ms whitelisted
 
+### snapchat experiment
+analytics.snapchat.com 
+app-analytics.snapchat.com 
+usc.adserver.snapads.com 
+snapads.com 
+app-analytics-v2.snapchat.com 
+asia-southeast1-gcp.api.snapchat.com 
+pica.aeonlucid.com 
+Us-central1-gcp.api.snapchat.com 
+Usc.adserver.snapads.com 
+Geofilters-api.snapchat.com 
+Cognac-prod.appspot.com 
+Ase.adserver.snapads.com 
+Tr.snapchat.com 
+Loc.sc-jpl.com 
+Storage.googleapis.com 
+Snapchat-proxy.appspot.com
+
 ###
 # api.amazonalexa.com REMOVED for alexa devices
 #gateway fe apple found in pcap from iphone
